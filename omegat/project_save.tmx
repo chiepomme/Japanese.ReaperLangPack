@@ -1006,6 +1006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;322690F7CBF0FD23=Pitch:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T172011Z">
+        <seg>322690F7CBF0FD23=ピッチ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;32A5F32C7000598C=Cut points</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111247Z">
@@ -1710,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;5A07982F9797D6A7=stop</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T172025Z">
+        <seg>5A07982F9797D6A7=停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;5A097A1E8E23E204=Playrate fader range: 0.5-2.0</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112131Z">
@@ -2126,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;682ABD4822D9748D=play</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T172019Z">
+        <seg>682ABD4822D9748D=再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;685BE17D4DA686FC=Toggle selected FX offline\tCtrl+Alt+B</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110539Z">
@@ -2346,6 +2370,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001955Z">
         <seg>744B2F6CFBA0A242=アクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;745797F93833F418=repeat</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T172022Z">
+        <seg>745797F93833F418=リピート</seg>
       </tuv>
     </tu>
     <tu>
@@ -3394,6 +3426,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002248Z">
         <seg>AF427D96E302B145=カスタマイズしたメニュー:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;AF4AD46D7AA10118=Add current folder to shortcut list</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T172047Z">
+        <seg>AF4AD46D7AA10118=現在のフォルダをショートカットリストに追加</seg>
       </tuv>
     </tu>
     <tu>
@@ -4811,6 +4851,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050859Z">
         <seg>F2E31CE8AE28842A=複数トラックのアイテムをトラックにまとめる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F3D409ED59BA245F=pause</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T172017Z">
+        <seg>F3D409ED59BA245F=一時停止</seg>
       </tuv>
     </tu>
     <tu>
