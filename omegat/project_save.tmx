@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;46E68D57893F0D5D=Transport: Play/pause</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T171511Z">
+        <seg>46E68D57893F0D5D=トランスポート: 再生/一時停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;46F1486DB9B6A7A6=Mode:</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001244Z">
@@ -1890,6 +1898,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000728Z">
         <seg>61B7599A40AF0062=終了:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;61DB5FFF400740A5=Transport: Toggle repeat</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T171543Z">
+        <seg>61DB5FFF400740A5=トランスポート: リピート切り替え</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,6 +2538,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000328Z">
         <seg>82881FCAB4663FE9=最初の拍のサンプル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;82CD794FA2EDD475=Transport: Play/stop</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T171521Z">
+        <seg>82CD794FA2EDD475=トランスポート: 再生/停止</seg>
       </tuv>
     </tu>
     <tu>
@@ -3166,6 +3190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;A4419DE98AC6632E=Transport: Stop</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T171531Z">
+        <seg>A4419DE98AC6632E=トランスポート: 停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;A564BFA603B3928B=C&amp;ut selected FX\tCtrl+X</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110210Z">
@@ -3386,6 +3418,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153501Z">
         <seg>B0BD565E6246F228=ループポイント: ループ開始地点を設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B12DCB764FB6F550=Transport: Pause</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T171448Z">
+        <seg>B12DCB764FB6F550=トランスポート: 一時停止</seg>
       </tuv>
     </tu>
     <tu>
@@ -4683,6 +4723,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T105015Z">
         <seg>EE5CF20F98160706=フリーズを解除 (前のアイテムとエフェクトを復元)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EE7C68EF6C212F98=Transport: Play</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T171456Z">
+        <seg>EE7C68EF6C212F98=トランスポート: 再生</seg>
       </tuv>
     </tu>
     <tu>
