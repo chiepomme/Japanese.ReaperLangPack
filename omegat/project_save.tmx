@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;09CFC77E55F475C5=Cut</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T170811Z">
+        <seg>09CFC77E55F475C5=切り取り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;0A406B52D72D3189=Toggle track mute</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112458Z">
