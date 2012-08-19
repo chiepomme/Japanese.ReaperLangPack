@@ -1,0 +1,4978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>#NAME:Template (edit-me)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T105225Z">
+        <seg>#NAME:日本語 [chie.cc]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;006B733C62729272=Decrease by ~0.6% (ten cents)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111754Z">
+        <seg>006B733C62729272=0.6% 減らす (10セント)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;00BF6D212D40163B=Convert active take MIDI to in-project source data</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003757Z">
+        <seg>00BF6D212D40163B=アクティブなMIDIテイクをプロジェクト内MIDIデータに変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;01262900CB9ABE4B=Loop points: Remove loop points</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153428Z">
+        <seg>01262900CB9ABE4B=ループポイント: ループポイントを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;020D3467C33B79B0=Set items to custom color...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104131Z">
+        <seg>020D3467C33B79B0=アイテムの色を変更...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;02194DA19CF34ECD=Edit: Redo</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153348Z">
+        <seg>02194DA19CF34ECD=編集: やり直す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0226D05EC331BD27=List</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002822Z">
+        <seg>0226D05EC331BD27=リスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0420AF237D97ECB8=Solo</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153148Z">
+        <seg>0420AF237D97ECB8=ソロ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;043FBD1700F7067B=Render Warning</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003010Z">
+        <seg>043FBD1700F7067B=レンダリング警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;050AAAF896F25359=Crop list to active comp</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003815Z">
+        <seg>050AAAF896F25359=使用していない編集履歴を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;051CA74B46992E79=Bypass envelope</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111223Z">
+        <seg>051CA74B46992E79=エンベロープをバイパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;05F21CB15F5F944B=Auto trim/split items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001220Z">
+        <seg>05F21CB15F5F944B=アイテムの自動トリム・分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0629736B3FAE9E4C=Process</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000710Z">
+        <seg>0629736B3FAE9E4C=処理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0703625BF4AB8440=Split grouped items at times of selected item splits</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001334Z">
+        <seg>0703625BF4AB8440=選択されたアイテムの切れ目でグループのアイテムを分割する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0704D964EA4B33E0=Set active takes to default color</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103924Z">
+        <seg>0704D964EA4B33E0=アクティブテイクの色をデフォルトに戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0738C1B2009346F6=BPM:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000333Z">
+        <seg>0738C1B2009346F6=テンポ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;077D2C59054EE61C=name</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001423Z">
+        <seg>077D2C59054EE61C=名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0814EFA066F6B891=Source &amp;properties...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104529Z">
+        <seg>;0814EFA066F6B891=ファイルプロパティ (&amp;p)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;081F5207A6D5AA8E=Sample Format:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000343Z">
+        <seg>081F5207A6D5AA8E=サンプル形式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;08A2AD9AC1632C1B=Track cursor position</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001740Z">
+        <seg>08A2AD9AC1632C1B=トラックカーソルの位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;08C4A189ED06CFFA=Track performance options</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104929Z">
+        <seg>08C4A189ED06CFFA=トラックパフォーマンスオプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0922F78BE865FE0C=Param</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000429Z">
+        <seg>0922F78BE865FE0C=パラメータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;09939A2A8DB73EDE=Performance Meter</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000830Z">
+        <seg>09939A2A8DB73EDE=パフォーマンスメーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;09A01E8714A0B688=Comment</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153205Z">
+        <seg>09A01E8714A0B688=コメント</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0A406B52D72D3189=Toggle track mute</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112458Z">
+        <seg>0A406B52D72D3189=トラックをミュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0A6A186FCB4E720A=Remove items from group</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052335Z">
+        <seg>0A6A186FCB4E720A=アイテムをグループから外す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0A6FCB87E138A3AF=Show FX chain for active take</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104407Z">
+        <seg>0A6FCB87E138A3AF=テイクエフェクトチェーンを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0A9476D2DAF58CB5=General</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153946Z">
+        <seg>0A9476D2DAF58CB5=一般</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0B61CC7E6E2E017D=MIDI channel:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001502Z">
+        <seg>0B61CC7E6E2E017D=MIDIチャンネル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0B76FEDD4B488DD6=Explode all takes (in place)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004305Z">
+        <seg>0B76FEDD4B488DD6=すべてのテイクを重ねてアイテムに展開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0D521319E895BADD=Copy points</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111240Z">
+        <seg>0D521319E895BADD=ポイントをコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0E28C6126A0CF889=Undo</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153228Z">
+        <seg>0E28C6126A0CF889=元に戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0E71DF4467DEE5F6=Dynamic split items...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003948Z">
+        <seg>0E71DF4467DEE5F6=動的にアイテムを分割...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0EB8F3CE4C772566=Set item timebase to time</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104122Z">
+        <seg>0EB8F3CE4C772566=時間基準を時間に変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0EC28D42C155A657=----  User Presets (.rpl)  ----</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T162924Z">
+        <seg>0EC28D42C155A657=----  ユーザープリセット (.rpl)  ----</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0ED5B16414C9FBEC=Item and take colors</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051134Z">
+        <seg>0ED5B16414C9FBEC=アイテムとテイクの色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0EE7D967B88BFC63=&amp;FX Plug-ins settings...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T105108Z">
+        <seg>0EE7D967B88BFC63=エフェクトプラグイン設定 (&amp;F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0F28C70F6D5B8981=Track/Send Defaults</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154006Z">
+        <seg>0F28C70F6D5B8981=トラック・センドデフォルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;0FF98CDC4588805A=Request sample rate:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000340Z">
+        <seg>0FF98CDC4588805A=サンプリングレートを要求:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1002920B25015351=Track grouping parameters...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104917Z">
+        <seg>1002920B25015351=トラックグループパラメータ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;10AA715E679A1188=Send all keyboard input to plug-in</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110517Z">
+        <seg>10AA715E679A1188=全てのキーボードの入力をプラグインに送る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;10D0E37E59744608=BPM</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002122Z">
+        <seg>10D0E37E59744608=テンポ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;10EC54E7BB0B3282=pixels</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000951Z">
+        <seg>10EC54E7BB0B3282=ピクセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;111F67D1C0E01057=Show default FX presets</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110741Z">
+        <seg>111F67D1C0E01057=エフェクトのデフォルトプリセットを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;11458E9C9EF4BE2E=Set item timebase to beats (position only)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104040Z">
+        <seg>11458E9C9EF4BE2E=時間基準を拍 (開始位置のみ) に変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;11FA427DAF625F63=edit cursor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000309Z">
+        <seg>11FA427DAF625F63=編集カーソル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;122368E92DE6E29F=Reset to defaults</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001428Z">
+        <seg>122368E92DE6E29F=デフォルトに戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;124E3F58D9D38C02=Toggle pan visible</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104822Z">
+        <seg>124E3F58D9D38C02=パンを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;12D1E2F79FD7BDB8=Rename FX instance</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112320Z">
+        <seg>12D1E2F79FD7BDB8=エフェクトに別の名前を付ける</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;13D77626487877AE=Toggle volume (pre-FX) active</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104832Z">
+        <seg>13D77626487877AE=エフェクト前ボリュームを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;13DCDA4237FF0CF9=Editing Behavior</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154105Z">
+        <seg>13DCDA4237FF0CF9=編集動作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;146E11E319517217=Dock FX browser in Docker</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110725Z">
+        <seg>146E11E319517217=エフェクトブラウザをドッキング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;14AB75DE2C24FEF3=Insert track from template</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051010Z">
+        <seg>14AB75DE2C24FEF3=テンプレートからトラックを挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1589D28CD62A7BF0=Synchronization settings...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104618Z">
+        <seg>1589D28CD62A7BF0=同期設定...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1598EBACCB0F49EA=Reverse active take</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103732Z">
+        <seg>1598EBACCB0F49EA=アクティブテイクを反転する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;16464B290024A7A0=Audio device settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000338Z">
+        <seg>16464B290024A7A0=オーディオデバイス設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;16780B33F0A62D18=Remove selected</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002054Z">
+        <seg>16780B33F0A62D18=選択中の物を削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1686A8969AFE3B9F=&amp;Options</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003114Z">
+        <seg>1686A8969AFE3B9F=オプション(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;171CD8B223DA2025=Toggle pan (pre-FX) active</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104805Z">
+        <seg>171CD8B223DA2025=エフェクト前パンを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;18462807588A7AB2=Hz / subsequent beats:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000326Z">
+        <seg>18462807588A7AB2=Hz / 残りの拍:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;186444C1EA089313=Remove items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052325Z">
+        <seg>186444C1EA089313=アイテムを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;18A490C172DBF9BB=Item processing</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051141Z">
+        <seg>18A490C172DBF9BB=アイテム処理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;18C90F7E5DC51FCA=All</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000649Z">
+        <seg>18C90F7E5DC51FCA=すべて</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;18D0284FCA66EF48=Take FX...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002908Z">
+        <seg>18D0284FCA66EF48=テイクエフェクト...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;18E4377E5DDC2B7A=Add</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000313Z">
+        <seg>18E4377E5DDC2B7A=追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;197C41978E6506D8=Could not import %d of %d items!</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052850Z">
+        <seg>197C41978E6506D8=%d / %d 個のアイテムがインポート出来ませんでした。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;19BC8EA394A09BD0=Render item error</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T053150Z">
+        <seg>19BC8EA394A09BD0=アイテムのレンダリングエラーRender item error</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1A236FDD7E5FF32C=Custom</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153341Z">
+        <seg>1A236FDD7E5FF32C=カスタム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1A8015E802ECC562=Item mix behavior:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002847Z">
+        <seg>1A8015E802ECC562=アイテムが重なったときの動作:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1AAC225BC2D18F76=Quantize item positions to grid...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052203Z">
+        <seg>1AAC225BC2D18F76=アイテムの開始位置をグリッドにクオンタイズ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1B0AFEE5F92D9181=Presets</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002332Z">
+        <seg>1B0AFEE5F92D9181=プリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1B238E23A2024502=Keyboard/Multi-touch</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153958Z">
+        <seg>1B238E23A2024502=キーボード・マルチタッチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1BF73E10831BC659=Take pan envelope</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104700Z">
+        <seg>1BF73E10831BC659=テイクパンエンベロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1C46189B86914DD2=Copy File Error</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052721Z">
+        <seg>1C46189B86914DD2=ファイルコピーエラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1D4A32B1136CBF8C=VU Meters/Faders</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154045Z">
+        <seg>1D4A32B1136CBF8C=VUメーター・フェーダー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1D5AC868CE7FE785=Noise shaping</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002322Z">
+        <seg>1D5AC868CE7FE785=ノイズシェーピング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1D84015D83B05998=Set track automation mode</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104244Z">
+        <seg>1D84015D83B05998=オートメーションモードを変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1E031E71B52167CD=Import preset library (.rpl)...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T152646Z">
+        <seg>1E031E71B52167CD=プリセットライブラリをインポート (.rpl)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1E894CD06766E128=octaves</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001850Z">
+        <seg>1E894CD06766E128=オクターブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1EB556E18D613E28=Add...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001116Z">
+        <seg>;1EB556E18D613E28=追加...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1EEF91D385882BBE=Plug-ins</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000506Z">
+        <seg>1EEF91D385882BBE=プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1F4C50B930F9D6C8=Split items at cursor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104538Z">
+        <seg>1F4C50B930F9D6C8=カーソル位置でアイテムを分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;200265593F330955=Scale Finder</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002947Z">
+        <seg>200265593F330955=スケール検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;20AFB48FFE418F4F=Select</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153327Z">
+        <seg>20AFB48FFE418F4F=選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;20BAEAD47F4513A4=Reduce envelope point data when recording or drawing automation</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002610Z">
+        <seg>20BAEAD47F4513A4=オートメーションのレコーディング時・記入時にポイントを間引く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;20C9E44247CBCC07=Rename folder...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112304Z">
+        <seg>20C9E44247CBCC07=フォルダ名を変更...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;20EE79BDD1264889=Reset selected points to zero/center</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103723Z">
+        <seg>20EE79BDD1264889=選択ポイントをリセットする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;210B23F21E3171CA=Convert active take MIDI to .mid file reference</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003738Z">
+        <seg>210B23F21E3171CA=アクティブなMIDIテイクをMIDIファイルへの参照に変換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2112CF591DBD3A60=Mono</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000701Z">
+        <seg>2112CF591DBD3A60=モノラル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;21E4A0FB10179834=Reduce number of points...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111321Z">
+        <seg>21E4A0FB10179834=ポイントを間引く...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;21F4EDEE5D02BA27=Move envelope points with media items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051528Z">
+        <seg>21F4EDEE5D02BA27=アイテムと一緒にエンベロープポイントを移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;223F4865B99B73B0=Output file</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000323Z">
+        <seg>223F4865B99B73B0=出力ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;22890C70F0007984=Envelope point selection follows time selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004151Z">
+        <seg>22890C70F0007984=エンベロープの選択を時間選択に合わせる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;22BB6337A73E9205=Toggle volume visible</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104845Z">
+        <seg>22BB6337A73E9205=ボリュームを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;23590995D822F51C=Duplicate tracks</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003932Z">
+        <seg>23590995D822F51C=トラックを複製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;243E59CF21CC1F33=Video/REX/Misc</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154130Z">
+        <seg>243E59CF21CC1F33=ビデオ・REX・その他</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2504EFBB70A00BF0=Reset points to zero/center</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111333Z">
+        <seg>2504EFBB70A00BF0=ポイントをリセットする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2555373B75AA89B2=Output</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000705Z">
+        <seg>2555373B75AA89B2=出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;257731EBCA5EBF0E=Show grid</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104432Z">
+        <seg>257731EBCA5EBF0E=グリッドを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;268986373F235EF0=beats</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002932Z">
+        <seg>268986373F235EF0=拍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;26C7502E02B01288=Project timebase</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052143Z">
+        <seg>26C7502E02B01288=プロジェクトの時間基準</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;271D7187C80C7F43=MIDI Editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153244Z">
+        <seg>271D7187C80C7F43=MIDIエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;271F989089915585=Arm envelope for recording</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111214Z">
+        <seg>271F989089915585=録音待機エンベロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;27450F3A019ACFE8=Set tracks to one random color</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104343Z">
+        <seg>27450F3A019ACFE8=トラックの色をランダムな色に変更 (同じ色)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;27A8F35A732CC6E6=Save/rename active comp...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103805Z">
+        <seg>27A8F35A732CC6E6=アクティブな編集履歴を保存・名前を変更...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;28450354F52CB7AE=Reset</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000308Z">
+        <seg>28450354F52CB7AE=リセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;29AC56D2B3AB95DD=&amp;Copy selected FX\tCtrl+C</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T105052Z">
+        <seg>29AC56D2B3AB95DD=選択エフェクトをコピー (&amp;C)\tCtrl+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2A155A1A970AC2FE=Set tracks to custom color...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104321Z">
+        <seg>2A155A1A970AC2FE=トラックの色を変更...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2A861A976C38C3D4=Record mode: normal</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052237Z">
+        <seg>2A861A976C38C3D4=録音モード: 通常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2ACB121355B0007A=Playback</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001920Z">
+        <seg>2ACB121355B0007A=再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2B4E18A3D5201CFA=Pan Law</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001045Z">
+        <seg>2B4E18A3D5201CFA=パン設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2B74B8A9175B98AD=Save Preset</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T165722Z">
+        <seg>2B74B8A9175B98AD=プリセットを保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2B7EEDEAE2DA5D5C=Enable metronome</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001452Z">
+        <seg>2B7EEDEAE2DA5D5C=メトロノームを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2BE60748A665DAFB=Take mute envelope</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104653Z">
+        <seg>2BE60748A665DAFB=テイクミュートエンベロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2D64A463B95C3074=Media Explorer</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153251Z">
+        <seg>2D64A463B95C3074=メディアエクスプローラ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2E287BE9B3A7F568=Nudge right</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002737Z">
+        <seg>2E287BE9B3A7F568=右へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2E3DECABF5FD3B44=Open in inline editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051915Z">
+        <seg>2E3DECABF5FD3B44=インラインエディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2E50A636B3040F96=Set track timebase</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104311Z">
+        <seg>2E50A636B3040F96=トラックの時間基準を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2F3C98801E1D176D=&amp;FX</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T105058Z">
+        <seg>2F3C98801E1D176D=エフェクト (&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2F799723962762C7=Stop</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002833Z">
+        <seg>2F799723962762C7=停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;309B13D6E0AC1A0F=Length:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000320Z">
+        <seg>309B13D6E0AC1A0F=長さ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;30EF57A27EDFC686=(none)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001931Z">
+        <seg>30EF57A27EDFC686=(無し)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;315BFEF486D49FEB=Error moving file</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052701Z">
+        <seg>315BFEF486D49FEB=ファイルを移動する際にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;31DD29D6185E7EC8=Set items to default color</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104139Z">
+        <seg>31DD29D6185E7EC8=アイテムの色をデフォルトに戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;32A5F32C7000598C=Cut points</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111247Z">
+        <seg>32A5F32C7000598C=ポイントを切り取り</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;32A8CD94B8E9F86E=Explode all takes to new tracks</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004323Z">
+        <seg>32A8CD94B8E9F86E=すべてのテイクを新しいトラックに展開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;33212EA04B36D7AA=Routing/Grouping Matrix</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000842Z">
+        <seg>33212EA04B36D7AA=ルーティング・グルーピングマトリックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3390D94D34F06461=None</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001124Z">
+        <seg>3390D94D34F06461=無し</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;350E0F395B7F1C85=(take list)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003252Z">
+        <seg>350E0F395B7F1C85=(テイクリスト)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3683BEB2CD7D7896=&amp;Edit JS FX...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110635Z">
+        <seg>683BEB2CD7D7896=JSエフェクトを編集 (&amp;E)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;37E1C985732EDDC1=Save preset...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112439Z">
+        <seg>37E1C985732EDDC1=プリセットを保存...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3821C0F763D1850D=Toggle selected FX bypass\tCtrl+B</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110529Z">
+        <seg>3821C0F763D1850D=選択エフェクトをバイパス\tCtrl+B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;383F243464148105=Transient Detection Settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002654Z">
+        <seg>383F243464148105=トランジェント検出設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;385A68019D9A9A61=New project tab</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051612Z">
+        <seg>385A68019D9A9A61=新規プロジェクトタブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3868AB5EE29314B8=Lock</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002850Z">
+        <seg>3868AB5EE29314B8=ロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;386DCB7A24A75D67=&amp;Edit</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003043Z">
+        <seg>386DCB7A24A75D67=編集(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;386EB65EE2979317=Load</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002138Z">
+        <seg>386EB65EE2979317=読み込み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3896D8BF3E72ED2C=Regions</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001139Z">
+        <seg>3896D8BF3E72ED2C=リージョン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;38EAAB594661F05F=Default menu:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002257Z">
+        <seg>38EAAB594661F05F=デフォルトのメニュー:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;38F9B35CED04D04D=Big Clock</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001545Z">
+        <seg>38F9B35CED04D04D=時間表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;397E19C8F7486840=Project Bay</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002628Z">
+        <seg>397E19C8F7486840=プロジェクトベイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3A0B093282EA17AC=Subsequent beat:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000325Z">
+        <seg>3A0B093282EA17AC=残りの拍:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3A2761697FE8C69E=Trim content behind media items when editing</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104949Z">
+        <seg>3A2761697FE8C69E=編集時に後ろに隠れたアイテムをトリム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3A390528F4DCEC5D=(track template list)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003300Z">
+        <seg>3A390528F4DCEC5D=(トラックテンプレートリスト)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3A39C76003695360=Section:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002040Z">
+        <seg>3A39C76003695360=選択範囲:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3AEE47F8880725BF=Scale:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001940Z">
+        <seg>3AEE47F8880725BF=スケール:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3AF66241CE595B8C=&amp;Envelopes</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003050Z">
+        <seg>3AF66241CE595B8C=エンベロープ(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3B51BD80C3F49F82=ReaScript Warning</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153728Z">
+        <seg>3B51BD80C3F49F82=ReaScript警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3BEB0AE437FA2F12=center</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000536Z">
+        <seg>3BEB0AE437FA2F12=センター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3BF0AA22A506F11A=Wildcards</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002405Z">
+        <seg>3BF0AA22A506F11A=ワイルドカード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3BF92ABFA8425D90=Filename:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000336Z">
+        <seg>3BF92ABFA8425D90=ファイル名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3C63123253BCD74E=Usage</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002635Z">
+        <seg>3C63123253BCD74E=使用方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3CF04EFDC66C18B2=Snap to unit</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002752Z">
+        <seg>3CF04EFDC66C18B2=単位にスナップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3D05B40BFC6A1E40=External Timecode Synchronization</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001917Z">
+        <seg>3D05B40BFC6A1E40=外部タイムコードと同期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3D90226E6ACF7B65=Toggle FX bypass</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112449Z">
+        <seg>3D90226E6ACF7B65=エフェクトをバイパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3D9702905AC5B44C=Virtual MIDI keyboard</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001519Z">
+        <seg>3D9702905AC5B44C=バーチャルキーボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3D9CBC3C216900AD=Play</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112342Z">
+        <seg>3D9CBC3C216900AD=再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3DE55555674DF9F6=Peaks/Waveforms</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154038Z">
+        <seg>3DE55555674DF9F6=ピーク・波形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3E1E032211F699E5=Auto-crossfade media items when editing</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003351Z">
+        <seg>3E1E032211F699E5=アイテム編集時にオートクロスフェード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3E38EF62B047CD38=Repeat</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112353Z">
+        <seg>3E38EF62B047CD38=リピート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3E62FFC31E48DC5F=Minutes:Seconds</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051446Z">
+        <seg>3E62FFC31E48DC5F=分:秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3E6F5B4FF4F5BC43=Create new folder...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112244Z">
+        <seg>3E6F5B4FF4F5BC43=新規フォルダを作成...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3E7CD7C393BEE92F=Use ruler time unit</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112406Z">
+        <seg>3E7CD7C393BEE92F=時間軸の単位を使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3E83534995169108=Request block size:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000340Z">
+        <seg>3E83534995169108=ブロックサイズを要求:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3F0C4A774B49AF33=Run/close</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002034Z">
+        <seg>3F0C4A774B49AF33=実行して閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;4018D271D54282D1=Auto-clear search field on folder change</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110703Z">
+        <seg>4018D271D54282D1=検索ボックスをフォルダ変更時に消去</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;40B42F5B4E7F894C=Clear envelope</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003530Z">
+        <seg>40B42F5B4E7F894C=エンベロープをクリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;420377F78A3E1841=FX Browser</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004402Z">
+        <seg>420377F78A3E1841=エフェクトブラウザ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;423DD25A37AD7A79=Nudge/set items...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051655Z">
+        <seg>423DD25A37AD7A79=アイテム移動...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;4324C9C893B102F6=Insert</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153151Z">
+        <seg>4324C9C893B102F6=挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;43EF57CE3ADA8A28=Unfreeze track</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T102256Z">
+        <seg>43EF57CE3ADA8A28=フリーズを解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;44D4B9BC3E717FAC=Channel:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000306Z">
+        <seg>44D4B9BC3E717FAC=チャンネル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;459EE41012553C16=&amp;Paste</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003120Z">
+        <seg>459EE41012553C16=貼り付け(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;460AFFF6D99D0DD1=Playrate fader range: 0.75-1.5</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112145Z">
+        <seg>460AFFF6D99D0DD1=再生速度フェーダの幅: 0.75-1.5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;46F1486DB9B6A7A6=Mode:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001244Z">
+        <seg>46F1486DB9B6A7A6=モード:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;47B6B0240DC76A6B=Select all points</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103834Z">
+        <seg>47B6B0240DC76A6B=全てのポイントを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;47C303DD6766CBE5=Set envelope default point shape</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104019Z">
+        <seg>47C303DD6766CBE5=エンベロープポイントのデフォルトの形状を設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;48D899DD92FBC032=Name:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000606Z">
+        <seg>48D899DD92FBC032=名前:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;48E3EE852F14F202=Insert empty space in selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111102Z">
+        <seg>48E3EE852F14F202=選択時間分の空白を挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;4A24DE7EC5D70EE4=Freeze track to mono, up to last selected FX</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110340Z">
+        <seg>4A24DE7EC5D70EE4=選択エフェクトをフリーズ (モノラル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;4A2B58135C235086=Take pitch envelope</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104706Z">
+        <seg>4A2B58135C235086=テイクピッチエンベロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;4C6F30285576EE3F=Open items in editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052024Z">
+        <seg>4C6F30285576EE3F=複数アイテムをエディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;4D5B21719C8D85CE=Browse for file...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000305Z">
+        <seg>4D5B21719C8D85CE=ファイルを参照...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;4E5F93B30C786CEB=Track Envelopes</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000927Z">
+        <seg>4E5F93B30C786CEB=トラックエンベロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;4EEB564BBD876EAB=Set to 1.0</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112233Z">
+        <seg>4EEB564BBD876EAB=等速に戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;4F32BF040299F0AA=Enable input for control messages</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002227Z">
+        <seg>4F32BF040299F0AA=この入力デバイスでコントロールメッセージを有効にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;511EAD28BA4AE493=format spec</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000321Z">
+        <seg>511EAD28BA4AE493=フォーマット仕様</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5121A85C07CE50F8=Apply playrate to current BPM</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T113311Z">
+        <seg>5121A85C07CE50F8=テンポに再生速度を反映</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5137806840344CAF=Toggle pan (pre-FX) visible</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104816Z">
+        <seg>5137806840344CAF=エフェクト前パンを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;51B4B159DD69FD3B=Go to next marker</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153145Z">
+        <seg>51B4B159DD69FD3B=次のマーカーに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;522F483C3BDD4C72=Do not link track volume/pan to MIDI</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003916Z">
+        <seg>522F483C3BDD4C72=トラックボリューム・パンをMIDIとリンクしない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;52BC569ACECFA886=on stop</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000314Z">
+        <seg>52BC569ACECFA886=停止時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;534ADAA151A5F491=Save current project before quitting?</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052451Z">
+        <seg>534ADAA151A5F491=終了前に現在のプロジェクトを保存しますか？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;542A194EAA789AB0=Enable only when track or item is selected</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001621Z">
+        <seg>542A194EAA789AB0=トラックかアイテムが選択されているときだけ有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5493EE7052DCF71B=Options</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002328Z">
+        <seg>5493EE7052DCF71B=オプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;54BE0C4F3DB86B76=Save state as VST bank (default)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153053Z">
+        <seg>54BE0C4F3DB86B76=プラグインの状態をVSTバンクとして保存 (デフォルト)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;54DADE4C7B95FC5C=Freeze tracks to stereo (render pre-fader, save/remove items and online FX)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112616Z">
+        <seg>54DADE4C7B95FC5C=ステレオでフリーズ (render pre-fader, save/remove items and online FX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;555922281DE5343B=Move active comp to top lane</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051503Z">
+        <seg>555922281DE5343B=アクティブな編集履歴を一番上のレーンに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5565002CCE1DFBC7=Prompt to save/delete/rename new files:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000316Z">
+        <seg>5565002CCE1DFBC7=新しいファイルを管理する画面を開く:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5601B9A57A757ADB=Take channel mode: Normal</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104646Z">
+        <seg>5601B9A57A757ADB=テイクチャンネルモード: 通常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;561C816EA4AE16DF=Add edge points when ripple editing or inserting time</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002501Z">
+        <seg>561C816EA4AE16DF=リップル編集時・時間の挿入時に両端にポイントを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5710F0FC06226D7D=Remove contents of selection (moving later items)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111132Z">
+        <seg>5710F0FC06226D7D=選択時間内の要素を削除し前に詰める</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;57490B7E317D9DB1=Error opening recorded media</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052649Z">
+        <seg>57490B7E317D9DB1=録音したファイルを開く際にエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;576D3C1F8C34C670=Strength:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001906Z">
+        <seg>576D3C1F8C34C670=影響度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;57CA523AA910C686=Gain compensation (boost pans)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001025Z">
+        <seg>57CA523AA910C686=小さくなった分音量を上げる?(boost pans)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;586B2A0EC026812A=Render items as new take</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052359Z">
+        <seg>586B2A0EC026812A=アイテムを新しいテイクとしてレンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5892A20D9BBBE54A=Value:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000555Z">
+        <seg>5892A20D9BBBE54A=値:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;58EB14692B28F25A=Unselect all points</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T105024Z">
+        <seg>58EB14692B28F25A=ポイントの選択を解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;59111F850FAE5C14=Enable snapping</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000947Z">
+        <seg>59111F850FAE5C14=スナップを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;593D5AC384550ADA=Show recent actions</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104444Z">
+        <seg>593D5AC384550ADA=最近行ったアクションを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;595D1609A802357B=Invert selected points</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051106Z">
+        <seg>595D1609A802357B=ポイントの上下を反転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5A097A1E8E23E204=Playrate fader range: 0.5-2.0</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112131Z">
+        <seg>5A097A1E8E23E204=再生速度フェーダの幅: 0.5-2.0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5A3FF93A190E0F6B=Empty item</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003958Z">
+        <seg>5A3FF93A190E0F6B=空のアイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5A6DE0CA99B71E37=Show all active track envelopes</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111522Z">
+        <seg>5A6DE0CA99B71E37=アクティブトラックのエンベロープを全て表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5A9A6AA7D3CFBD27=Render/Freeze Warning</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T053009Z">
+        <seg>5A9A6AA7D3CFBD27=レンダリング・フリーズ警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5B664677E1A91155=Start</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001638Z">
+        <seg>5B664677E1A91155=開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5B982DEEA8952FF4=Auto-float new FX windows</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110050Z">
+        <seg>5B982DEEA8952FF4=新しいエフェクトウィンドウを別ウィンドウに表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5BD67845F0F0360D=Main window position</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001712Z">
+        <seg>5BD67845F0F0360D=メインウィンドウの位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5C6FB2DCFD68EEF7=Link track volume/pan to all MIDI channels</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051254Z">
+        <seg>5C6FB2DCFD68EEF7=トラックボリューム・パンを複数のMIDIチャンネルとリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5C973D1CB80B0D9F=Render...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000802Z">
+        <seg>5C973D1CB80B0D9F=レンダリング...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5CCBCB0963EC10AD=Previous take</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052128Z">
+        <seg>5CCBCB0963EC10AD=前のテイク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5D33EA2A7EBEF63C=Region Manager</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003005Z">
+        <seg>5D33EA2A7EBEF63C=リージョンマネージャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5D5B152A913BF2D1=Go to end of project</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112328Z">
+        <seg>5D5B152A913BF2D1=プロジェクトの終わりに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5E1EE8B2642F9F1B=Audio</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154016Z">
+        <seg>5E1EE8B2642F9F1B=オーディオ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5F00BE84E91B6C9B=Go to previous marker</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153129Z">
+        <seg>5F00BE84E91B6C9B=前のマーカーに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5F08AD67C9135573=Crop project to selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111057Z">
+        <seg>5F08AD67C9135573=選択時間外をプロジェクトから削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5F8BE96FAB61772F=Custom actions:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002008Z">
+        <seg>5F8BE96FAB61772F=カスタムアクション:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6037A596D672320D=Shortcut</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153331Z">
+        <seg>6037A596D672320D=ショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;60BCFF25EB54665C=Move items to source preferred position</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051551Z">
+        <seg>60BCFF25EB54665C=ファイルで定められた位置にアイテムを移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;60EE028014F5398C=Select all items in group</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103826Z">
+        <seg>60EE028014F5398C=グループの全アイテムを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;611FB91949657A10=Track Channels:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000531Z">
+        <seg>611FB91949657A10=トラックチャンネル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6174C6969402A488=Open project in new tab</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002235Z">
+        <seg>6174C6969402A488=プロジェクトを新しいタブに開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;61946358B1034B76=Mute</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000805Z">
+        <seg>61946358B1034B76=ミュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;619AF06BCC66D00F=Open in editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051848Z">
+        <seg>619AF06BCC66D00F=エディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;61B7599A40AF0062=End:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000728Z">
+        <seg>61B7599A40AF0062=終了:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;61EB857EEC517894=Record arm</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000813Z">
+        <seg>61EB857EEC517894=録音待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;62060BAC51213CA3=Render tracks to mono stem tracks (and mute originals)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103636Z">
+        <seg>62060BAC51213CA3=モノラルトラックにレンダリングして元をミュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;62473318FFD2829F=[recording settings]</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T105040Z">
+        <seg>62473318FFD2829F=[録音設定]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;628E594012CC7C5B=Set all takes of selected items to default color</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104000Z">
+        <seg>628E594012CC7C5B=選択アイテムの全てのテイクの色をデフォルトに戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;62A207FF54858A9C=Decrease by ~6% (one semitone)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111807Z">
+        <seg>62A207FF54858A9C=6% 減らす (半音)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;62C49C467C0C15D3=Load...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000308Z">
+        <seg>62C49C467C0C15D3=読み込み...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;62D3F04B79600A6D=Error opening media to add to project</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052753Z">
+        <seg>62D3F04B79600A6D=プロジェクトに追加するファイルを開こうとしたときエラーが発生しました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;62DCD9FD78BC002A=Increase by ~0.6% (ten cents)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111827Z">
+        <seg>;62DCD9FD78BC002A=0.6% 増やす (10セント)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6388A67DF74AFA94=VST</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154138Z">
+        <seg>6388A67DF74AFA94=VST</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;639DD13915D0BDD2=Set tracks to default color</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104330Z">
+        <seg>639DD13915D0BDD2=トラックの色をデフォルトに戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6478144A3C4FB7D2=Track grouping enabled</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104920Z">
+        <seg>6478144A3C4FB7D2=トラックグループを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;648DC6218B71EAE3=Set track icon...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104255Z">
+        <seg>648DC6218B71EAE3=トラックアイコンを変更...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;64BFDFCE78C5294D=Open in last focused editor, preserve editor contents</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051959Z">
+        <seg>64BFDFCE78C5294D=エディタをクリアせず最後にフォーカスのあったエディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;65CA689C377C5655=Offset template items by edit cursor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051730Z">
+        <seg>65CA689C377C5655=編集カーソル位置からテンプレートアイテムを挿入する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;66D8B92631859FE9=Rename...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002132Z">
+        <seg>66D8B92631859FE9=名前を変更...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;66E5DC632BAFC67F=Link track volume/pan to MIDI channel</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051233Z">
+        <seg>66E5DC632BAFC67F=トラックボリューム・パンをMIDIとリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;66F59CEEAE4451AB=Explode all takes (in order)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004313Z">
+        <seg>66F59CEEAE4451AB=すべてのテイクを並べてアイテムに展開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;674FAADE1B271106=Channel 8</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112029Z">
+        <seg>674FAADE1B271106=チャンネル 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;674FABDE1B2712B9=Channel 9</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112032Z">
+        <seg>674FABDE1B2712B9=チャンネル 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;674FB0DE1B271B38=Channel 2</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112010Z">
+        <seg>674FB0DE1B271B38=チャンネル 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;674FB1DE1B271CEB=Channel 3</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112013Z">
+        <seg>674FB1DE1B271CEB=チャンネル 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;674FB3DE1B272051=Channel 1</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111942Z">
+        <seg>674FB3DE1B272051=チャンネル 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;674FB4DE1B272204=Channel 6</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112023Z">
+        <seg>674FB4DE1B272204=チャンネル 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;674FB5DE1B2723B7=Channel 7</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112026Z">
+        <seg>674FB5DE1B2723B7=チャンネル 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;674FB6DE1B27256A=Channel 4</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112016Z">
+        <seg>674FB6DE1B27256A=チャンネル 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;674FB7DE1B27271D=Channel 5</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112019Z">
+        <seg>674FB7DE1B27271D=チャンネル 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;67EF32DE1BAE7097=Channels:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001630Z">
+        <seg>67EF32DE1BAE7097=チャンネル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;685BE17D4DA686FC=Toggle selected FX offline\tCtrl+Alt+B</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110539Z">
+        <seg>685BE17D4DA686FC=選択エフェクトをオフライン\tCtrl+Alt+B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;691C4B8E09709260=Copy loop of selected area of items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110825Z">
+        <seg>691C4B8E09709260=アイテム内の選択範囲をループとしてコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;698028640C29E8A9=Enable locking</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001131Z">
+        <seg>698028640C29E8A9=ロックを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6A003F23022A1E47=Add edge points when moving envelope points</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002428Z">
+        <seg>6A003F23022A1E47=複数のエンベロープポイントを移動するとき、両端にポイントを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6A05662E2A1E77AC=Slow start/end</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104505Z">
+        <seg>6A05662E2A1E77AC=緩やかな曲線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6AE6A7774B25EDEB=Edit Marker</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000601Z">
+        <seg>6AE6A7774B25EDEB=マーカーを編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6B4795AB9EC37475=Input:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001937Z">
+        <seg>6B4795AB9EC37475=入力:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6B4AECC021E5686A=ms, start shape:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000324Z">
+        <seg>6B4AECC021E5686A=ms, 最初の形状:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6B80ADA8054A1976=Render tracks to multichannel stem tracks (and mute originals)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103647Z">
+        <seg>6B80ADA8054A1976=マルチチャンネルトラックにレンダリングして元をミュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6B921CBA018B2EE0=No additional resource loaded</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002149Z">
+        <seg>6B921CBA018B2EE0=追加のリソースは読み込まれていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6BE8B83EA0A1A15E=&amp;Actions</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003035Z">
+        <seg>6BE8B83EA0A1A15E=アクション(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6C8CB6E8F2159B02=Set items to one random color</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104157Z">
+        <seg>6C8CB6E8F2159B02=アイテムの色をランダムな色に変更 (同じ色)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6CC2B91DE323C665=Rendering</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154024Z">
+        <seg>6CC2B91DE323C665=レンダリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6D0BCBC7DDDC55E7=Type:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000311Z">
+        <seg>6D0BCBC7DDDC55E7=形式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6D27CBDC5943D7B6=Shape:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000551Z">
+        <seg>6D27CBDC5943D7B6=形状:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6D2EC5D738690CA9=Delete active take</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003901Z">
+        <seg>6D2EC5D738690CA9=アクティブなテイクを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6E2BF94AF99A0CD2=Open all track MIDI in new editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051809Z">
+        <seg>6E2BF94AF99A0CD2=全てのMIDIを新しいエディタに表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6E30C0D1324E59B5=Unfreeze Error</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T053017Z">
+        <seg>6E30C0D1324E59B5=フリーズ解除時エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6E708F217D28443C=Select points in time selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103855Z">
+        <seg>6E708F217D28443C=選択時間内のポイントを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6E9C1F47AE0AB01B=Insert new track</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050952Z">
+        <seg>6E9C1F47AE0AB01B=新規トラックを挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6EEA4E6D1C299C1E=Toggle &amp;pan active</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104739Z">
+        <seg>6EEA4E6D1C299C1E=パンを使用 (&amp;p)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6EFA7E4EF87CA485=Auto-clear search field on close</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110652Z">
+        <seg>6EFA7E4EF87CA485=検索ボックスを閉じるときに消去</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;712B3B8E9EA5C857=\r\n(Media items added to track)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T053135Z">
+        <seg>712B3B8E9EA5C857=\r\n(アイテムがトラックに追加された)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;71792D1D6A0A99B6=Media items on 1 track have been edited after freezing!</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T053119Z">
+        <seg>71792D1D6A0A99B6=1 個のトラックがフリーズ後に編集されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;71CB5040464F5BC3=Record mode: time selection auto punch</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052254Z">
+        <seg>71CB5040464F5BC3=録音モード: 時間選択範囲でオートパンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;720CB39E31676E27=Start:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000721Z">
+        <seg>720CB39E31676E27=開始:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;727B7F2EB869FFD5=Show envelope in lane</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111351Z">
+        <seg>727B7F2EB869FFD5=エンベロープをレーンに表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;744B2F6CFBA0A242=Actions</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001955Z">
+        <seg>744B2F6CFBA0A242=アクション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;756B500741E261D4=Import license key...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001103Z">
+        <seg>756B500741E261D4=ライセンスキーをインポート...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;771385F02A161BDC=View ReaScript help</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153740Z">
+        <seg>771385F02A161BDC=ReaScriptのヘルプを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;772CECA01AD73CB4=Value</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153320Z">
+        <seg>772CECA01AD73CB4=値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;77D4606E1E255B38=Save preset as default...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T152912Z">
+        <seg>77D4606E1E255B38=プリセットをデフォルトとして保存...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;78957C8454DBB75F=Freeze tracks to mono (render pre-fader, save/remove items and online FX)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050658Z">
+        <seg>78957C8454DBB75F=モノラルでフリーズ (render pre-fader, save/remove items and online FX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;79AA43061BD49154=Freeze tracks to multichannel (render pre-fader, save/remove items and online FX)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050657Z">
+        <seg>79AA43061BD49154=マルチチャンネルでフリーズ (render pre-fader, save/remove items and online FX)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;79D6347556189739=Measures.Beats</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051416Z">
+        <seg>79D6347556189739=小節.拍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;79DCBE1CDE37B4F3=Entire project</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000658Z">
+        <seg>79DCBE1CDE37B4F3=プロジェクト全体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7B21C9863AA04D13=Dither</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002307Z">
+        <seg>7B21C9863AA04D13=ディザリング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7B40BE6E6BF922B1=Options: Snap note ends to grid when snap enabled</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154432Z">
+        <seg>7B40BE6E6BF922B1=オプション: スナップ有効時にノートの終わりをグリッドにスナップする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7C52DE0969C08A82=Buggy plug-in compatibility mode</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112521Z">
+        <seg>7C52DE0969C08A82=バグのあるプラグイン向け互換モード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7C92092A41B00EDC=Latch (record fader movements after first movement)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111419Z">
+        <seg>7C92092A41B00EDC=Latch (最初に動かした時からフェーダーの動きを記録)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7CE6FE4C74542BB2=Region Manager...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000757Z">
+        <seg>7CE6FE4C74542BB2=リージョンマネージャー...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7DA8EA3426CA11D3=Description</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002618Z">
+        <seg>7DA8EA3426CA11D3=説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7E11B9683132FA9E=Keyboard</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001143Z">
+        <seg>7E11B9683132FA9E=キーボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7E2DF1630E77106E=Group items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050735Z">
+        <seg>7E2DF1630E77106E=アイテムをグループ化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7EA6B0652E5346C4=Lock to active take</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051315Z">
+        <seg>7EA6B0652E5346C4=アクティブテイクにロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7ED983D72A577065=Bitmap load failed</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052540Z">
+        <seg>7ED983D72A577065=ビットマップの読み込みに失敗しました</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7F8BE88D07D058A1=Link to MIDI program change</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T152657Z">
+        <seg>7F8BE88D07D058A1=MIDIプログラムチェンジとリンク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;80194C173B470AF3=Save as default</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000325Z">
+        <seg>80194C173B470AF3=デフォルトとして保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;807AD2DC48AC8DC8=Set active takes to custom color...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103911Z">
+        <seg>807AD2DC48AC8DC8=アクティブテイクの色を変更...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;80B08A2E37407C36=Image load error</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052546Z">
+        <seg>80B08A2E37407C36=画像の読み込みエラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;822C0ABE515442BB=Freeze track to multichannel, up to last non-offline FX</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110354Z">
+        <seg>822C0ABE515442BB=次のオフラインエフェクトまでフリーズ (マルチチャンネル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;82881FCAB4663FE9=First beat sample:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000328Z">
+        <seg>82881FCAB4663FE9=最初の拍のサンプル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;82EE5475CB6FCE9F=Close window</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112432Z">
+        <seg>82EE5475CB6FCE9F=ウィンドウを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;83C05BCE6E0BA462=semitones</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002615Z">
+        <seg>83C05BCE6E0BA462=半音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;83CEDDAC8FB7324E=Copy</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002000Z">
+        <seg>83CEDDAC8FB7324E=コピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;84225D657EA873E2=Device name:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001924Z">
+        <seg>84225D657EA873E2=デバイス名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;844E1C381BAED81D=Comps</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003535Z">
+        <seg>844E1C381BAED81D=編集記録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;849FA7BAC58F3097=Track scroll positions</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001752Z">
+        <seg>849FA7BAC58F3097=トラックスクロールの位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;84FADFAA8CD497E1=Build multichannel routing for output of selected FX...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110158Z">
+        <seg>84FADFAA8CD497E1=選択エフェクトのマルチアウト用トラックを挿入...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;850C45978587FBF4=notes</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001401Z">
+        <seg>850C45978587FBF4=音符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;865773BF0F30AC16=Screensets/Layouts</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001649Z">
+        <seg>865773BF0F30AC16=スクリーンセット/レイアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;8657A2F07751612A=Paste to takes in items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052047Z">
+        <seg>8657A2F07751612A=テイクをアイテムの中に貼り付け</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;866FE917BA950796=The file:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000304Z">
+        <seg>866FE917BA950796=ファイル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;86891682F6F2D16C=Select all</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103816Z">
+        <seg>86891682F6F2D16C=全てを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;86C526176585552D=Output format:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001635Z">
+        <seg>86C526176585552D=出力形式:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;87B550EB3F37F8CE=&amp;View</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003218Z">
+        <seg>87B550EB3F37F8CE=表示(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;87D8D79D63721460=Open render queue...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002955Z">
+        <seg>87D8D79D63721460=レンダリングキューを開く...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;87DB547E0C57B4B8=Run</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002028Z">
+        <seg>87DB547E0C57B4B8=実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;88344341B9A154CA=Play all takes</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052053Z">
+        <seg>88344341B9A154CA=全てのテイクを再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;888CF2A8F9990B9E=Rename preset...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T152833Z">
+        <seg>88CF2A8F9990B9E=プリセット名を変更...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;88C3EA6A227D6CF4=Set track layout</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104302Z">
+        <seg>88C3EA6A227D6CF4=トラックレイアウトを変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;88FE80D1430C4312=Preserve pitch when changing playrate</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052101Z">
+        <seg>88FE80D1430C4312=再生速度を変えてもピッチを維持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;89548F9D01B6F500=Frequency of first beat:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000330Z">
+        <seg>89548F9D01B6F500=最初の拍の周波数:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;8991F36B7822B489=Open in secondary editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052013Z">
+        <seg>8991F36B7822B489=サブエディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;89C0342F7627AB40=Theme element finder</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000259Z">
+        <seg>89C0342F7627AB40=テーマ要素検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;8A09A75D01EDDA59=Prevent media buffering</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052123Z">
+        <seg>8A09A75D01EDDA59=メディアのバッファリングを許可しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;8A3F14717826D8D1=Width</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153323Z">
+        <seg>8A3F14717826D8D1=幅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;8C2AEE7E9FE91BE0=to:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000542Z">
+        <seg>8C2AEE7E9FE91BE0=ここまで:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;8C66AD45F2B879B1=Quantize to:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001357Z">
+        <seg>8C66AD45F2B879B1=クオンタイズ分解能:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;8EA91D57270468E0=Pan law:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001053Z">
+        <seg>8EA91D57270468E0=パン設定:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;8EAF0AA09346C8D7=Lock item</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051259Z">
+        <seg>8EAF0AA09346C8D7=アイテムをロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;8FC86C263760ACB9=Volume</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000817Z">
+        <seg>8FC86C263760ACB9=ボリューム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;907F0944C42611FB=Window float selected FX\t(doubleclick)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110621Z">
+        <seg>907F0944C42611FB=選択エフェクトを別ウィンドウに表示\t(doubleclick)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;90AB4F33F7105841=Open in new editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052006Z">
+        <seg>90AB4F33F7105841=新しいエディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;90AF657379F9511D=Marker</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051359Z">
+        <seg>90AF657379F9511D=マーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;90B4F64A776D4FE3=Project load aborted by user</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052713Z">
+        <seg>90B4F64A776D4FE3=プロジェクトの読み込みがユーザーによってキャンセルされました。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;90B859A4F328EBB9=Split items at time selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104551Z">
+        <seg>90B859A4F328EBB9=選択時間でアイテムを分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;914F5B81FECF32F5=Copy selected area of items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110836Z">
+        <seg>914F5B81FECF32F5=アイテム内の選択範囲をコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;919D1A7A385C125C=Bezier</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003514Z">
+        <seg>919D1A7A385C125C=ベジエ曲線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9208F9E3B41AD8F7=Media items on %d tracks have been edited after freezing!</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T053048Z">
+        <seg>9208F9E3B41AD8F7=%d 個のトラックがフリーズ後に編集されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;925B2CEB12D2D978=Save...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000307Z">
+        <seg>925B2CEB12D2D978=保存...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;92665005797F0930=Invert phase</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051040Z">
+        <seg>92665005797F0930=位相を反転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;927D36CE7B695660=Threshold:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001340Z">
+        <seg>927D36CE7B695660=スレッショルド:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;928212AC32CC584E=Resample mode (if needed):</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002350Z">
+        <seg>928212AC32CC584E=リサンプリングモード:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;92C3E890C5EC8E5D=Remove FX for active take</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052303Z">
+        <seg>92C3E890C5EC8E5D=アクティブテイクのエフェクトを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;92CE2821A4E6C1EE=Format...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000317Z">
+        <seg>92CE2821A4E6C1EE=フォーマット...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;931D2CD599D2FEC9=Save tracks as track template...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103747Z">
+        <seg>931D2CD599D2FEC9=トラックをトラックテンプレートとして保存...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;93244D3BB94E6F33=No preset</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T170209Z">
+        <seg>93244D3BB94E6F33=プリセットなし</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;941DEA15C4817EEC=Set color...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000617Z">
+        <seg>941DEA15C4817EEC=色を設定...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;943A1A47FCEE5EEE=Explode MIDI item by note row (pitch)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004217Z">
+        <seg>943A1A47FCEE5EEE=音程ごとにMIDIをトラックに分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;94D8EC714ED10E14=Synchronization enabled</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104612Z">
+        <seg>94D8EC714ED10E14=同期を使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9590CA1D43A60188=Plug-in state data size:  0 kB</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T152824Z">
+        <seg>9590CA1D43A60188=プラグイン状態記録データサイズ:  0 kB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;96E5C67E1437194E=Pan</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000808Z">
+        <seg>96E5C67E1437194E=パン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;96F551BDA5577675=Appearance</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154029Z">
+        <seg>96F551BDA5577675=表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;978AC938BDD65877=Track number</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153317Z">
+        <seg>978AC938BDD65877=トラック番号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;97A80BF5035AB3F8=Can't rename file, destination file already exists.</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052516Z">
+        <seg>97A80BF5035AB3F8=変更後のファイル名がすでに存在するため、名前を変更できません。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;97D6D411868C112C=Time selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000740Z">
+        <seg>97D6D411868C112C=時間選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9824DEB0C15FC0F5=Duplicate active take</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003926Z">
+        <seg>9824DEB0C15FC0F5=アクティブなテイクを複製</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;987BD62594500526=Always prompt when importing media with embedded tempo</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153923Z">
+        <seg>987BD62594500526=テンポが埋め込まれたファイルをインポートする際には必ず確認する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;997D337F16F51D28=ReWire/DX</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154145Z">
+        <seg>997D337F16F51D28=ReWire・DirectX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;99B8B53D72CFEE9F=Mixer flags</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001718Z">
+        <seg>99B8B53D72CFEE9F=ミキサーのフラグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;99FA828F906D3EE4=Find</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000318Z">
+        <seg>99FA828F906D3EE4=検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9A96C7D5CB612D76=Toolbar Docker</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104852Z">
+        <seg>9A96C7D5CB612D76=ツールバードック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9BC67B482921A263=About REAPER</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000335Z">
+        <seg>9BC67B482921A263=REAPER について</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9BF0024003286A6E=Render tracks to stereo stem tracks (and mute originals)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103658Z">
+        <seg>9BF0024003286A6E=ステレオトラックにレンダリングして元をミュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9C51079A90B5736A=Hours:Minutes:Seconds:Frames</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050800Z">
+        <seg>9C51079A90B5736A=時:分:秒:フレーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9CADE133F3BF88B7=Freeze track to stereo, up to last selected FX</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110423Z">
+        <seg>9CADE133F3BF88B7=選択エフェクトをフリーズ (ステレオ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9CF0A9142899CF43=Auto-reposition items in free item positioning mode</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003417Z">
+        <seg>9CF0A9142899CF43=フリーポジションモード時にアイテムを自動で再配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9D4AE82B2A6E582F=Multichannel track metering</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051605Z">
+        <seg>9D4AE82B2A6E582F=マルチチャンネルのトラックメーターを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9D60E5E1B749E8D5=Set item timebase to project/track default</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104113Z">
+        <seg>9D60E5E1B749E8D5=時間基準をプロジェクト・トラックのデフォルトに変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9F31623C59553158=Path</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153222Z">
+        <seg>9F31623C59553158=パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9F786D12D8FA61CD=Custom track icons</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003846Z">
+        <seg>9F786D12D8FA61CD=トラックアイコンを指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A0CB20A955DAF552=Show action list...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104427Z">
+        <seg>A0CB20A955DAF552=アクションリストを開く...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A1C5EC4ACA9C56C0=Freeze</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002820Z">
+        <seg>A1C5EC4ACA9C56C0=フリーズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A23B66B5439758A9=Write (record fader positions to armed envelopes)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111716Z">
+        <seg>A23B66B5439758A9=Write (フェーダーの位置を記録)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A2AD8A8A1376F812=Compatibility settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112045Z">
+        <seg>A2AD8A8A1376F812=互換性設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A2BF58A6DFD853DC=Project</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002826Z">
+        <seg>A2BF58A6DFD853DC=プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A2D4EB52B7EE75E1=Beat click length:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000332Z">
+        <seg>A2D4EB52B7EE75E1=拍のクリックの長さ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A3049D07A88CF98A=Show VST folders</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110731Z">
+        <seg>A3049D07A88CF98A=VSTフォルダを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A35385C769502F3F=Move up</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112256Z">
+        <seg>A35385C769502F3F=上に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A354AA07A4DF9BBD=Enable grouping</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153158Z">
+        <seg>A354AA07A4DF9BBD=グルーピングを有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A43D5AFECAA46489=Preview</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002153Z">
+        <seg>A43D5AFECAA46489=プレビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A564BFA603B3928B=C&amp;ut selected FX\tCtrl+X</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110210Z">
+        <seg>A564BFA603B3928B=選択エフェクトを切り取り (&amp;u)\tCtrl+X</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A5AE0B33DF6191F1=Pan mode:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001041Z">
+        <seg>A5AE0B33DF6191F1=パンモード:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A5D5B4E847F44008=Beats (position, length, rate)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003510Z">
+        <seg>A5D5B4E847F44008=拍 (開始位置・長さ・再生速度)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A61CBD25C6796002=Layouts</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001707Z">
+        <seg>A61CBD25C6796002=レイアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A620AF611680A051=Items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001704Z">
+        <seg>A620AF611680A051=アイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A66F5FD1FF70F568=Attach Docker to main window</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112414Z">
+        <seg>A66F5FD1FF70F568=ドックをメインウィンドウに表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A68ABA1C0EA6CE27=Set items to random colors</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104214Z">
+        <seg>A68ABA1C0EA6CE27=アイテムの色をランダムな色に変更 (別々の色)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A6E8B961172A2EDC=Ite&amp;m</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051113Z">
+        <seg>A6E8B961172A2EDC=アイテム(&amp;m)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A6EF93273B597A8D=Clear or remove envelope...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111235Z">
+        <seg>A6EF93273B597A8D=エンベロープをクリア・削除...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A6F3EA432AA410A4=Insert virtual instrument on new track...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051029Z">
+        <seg>A6F3EA432AA410A4=ソフトシンセを新規トラックに読み込み...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A726FC321D37D0F0=T&amp;ake</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104632Z">
+        <seg>A726FC321D37D0F0=テイク (&amp;a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A7702CFDA3C1F8E6=&amp;Remove selected FX\tDelete</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T105137Z">
+        <seg>A7702CFDA3C1F8E6=選択エフェクトを削除 (&amp;R)\tDelete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A7BA0064C3A88716=Output Device:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000344Z">
+        <seg>A7BA0064C3A88716=出力デバイス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A81E91F59FE5A440=Mouse Modifiers</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154118Z">
+        <seg>A81E91F59FE5A440=マウスショートカット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A97D415B0FD742FD=Set note position to edit cursor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154313Z">
+        <seg>A97D415B0FD742FD=ノートの開始位置を編集カーソルに合わせる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;AA9942DEC0F6DBEA=&amp;Insert</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003107Z">
+        <seg>AA9942DEC0F6DBEA=挿入(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;AAB1F0BA33F2CA9C=Open copies in editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051828Z">
+        <seg>AAB1F0BA33F2CA9C=コピーをエディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;AB2A3D4EF1C9D1A8=Default</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003850Z">
+        <seg>AB2A3D4EF1C9D1A8=デフォルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;AB902561E815401D=Set tracks to random colors</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104358Z">
+        <seg>AB902561E815401D=トラックの色をランダムな色に変更 (別々の色)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;ABEC79059CAD0B0E=Alias name:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000306Z">
+        <seg>ABEC79059CAD0B0E=別名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;ADCF043FC016C409=Theme Editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154052Z">
+        <seg>ADCF043FC016C409=テーマエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;ADFC12BF930BBFC9=Take properties</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002929Z">
+        <seg>ADFC12BF930BBFC9=テイクプロパティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;AE0E8F593F20484B=Docker selected tab</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001700Z">
+        <seg>AE0E8F593F20484B=ドックで選択中のタブ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;AF3196AD6B727ABC=Delete</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001106Z">
+        <seg>AF3196AD6B727ABC=削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;AF427D96E302B145=Customized menu:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002248Z">
+        <seg>AF427D96E302B145=カスタマイズしたメニュー:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;AF8FB722E2FC29EA=Normalize items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051620Z">
+        <seg>AF8FB722E2FC29EA=アイテムをノーマライズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;AF908AD98D533548=Square</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104604Z">
+        <seg>AF908AD98D533548=水平線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B0BD565E6246F228=Loop points: Set start point</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153501Z">
+        <seg>B0BD565E6246F228=ループポイント: ループ開始地点を設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B31A6E6D65CF70FA=Mouse</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154108Z">
+        <seg>B31A6E6D65CF70FA=マウス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B3572B5D80DF7B79=Open all track MIDI in last focused editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051821Z">
+        <seg>B3572B5D80DF7B79=全てのMIDIを最後にフォーカスのあったエディタに表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B36DBB640BD652AA=Notes:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002942Z">
+        <seg>B36DBB640BD652AA=音符:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B38F0268237C0320=Channel 11</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111949Z">
+        <seg>B38F0268237C0320=チャンネル 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B38F0368237C04D3=Channel 10</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111946Z">
+        <seg>B38F0368237C04D3=チャンネル 10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B38F0468237C0686=Channel 13</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111956Z">
+        <seg>B38F0468237C0686=チャンネル 13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B38F0568237C0839=Channel 12</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111952Z">
+        <seg>B38F0568237C0839=チャンネル 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B38F0668237C09EC=Channel 15</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112003Z">
+        <seg>B38F0668237C09EC=チャンネル 15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B38F0768237C0B9F=Channel 14</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111959Z">
+        <seg>B38F0768237C0B9F=チャンネル 14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B38F0968237C0F05=Channel 16</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112008Z">
+        <seg>B38F0968237C0F05=チャンネル 16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B49A3DAD17186E2A=Open copies in secondary editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051842Z">
+        <seg>B49A3DAD17186E2A=コピーをサブエディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B5431ED426EE5CA5=Input Device:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000346Z">
+        <seg>B5431ED426EE5CA5=入力デバイス:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B61E6643CE61DA4C=Envelopes and Automation</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002509Z">
+        <seg>B61E6643CE61DA4C=エンベロープとオートメーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B622D171EE197539=Normalize items (common gain)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051639Z">
+        <seg>B622D171EE197539=アイテムをノーマライズ (音量比を保って)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B6616B85587122F2=Prevent anticipative FX</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052112Z">
+        <seg>B6616B85587122F2=先読みするエフェクトを許可しない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B6B81D96FFFC1FA4=Edit Time Signature Marker</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000904Z">
+        <seg>B6B81D96FFFC1FA4=拍子マーカーを編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B7169EEC02C8D8FC=Glue items within time selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050728Z">
+        <seg>B7169EEC02C8D8FC=選択時間内のアイテムを結合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B762E77EB85D7B6C=off</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153334Z">
+        <seg>B762E77EB85D7B6C=オフ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B814E3BFB72A607B=Delete preset</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112424Z">
+        <seg>B814E3BFB72A607B=プリセットを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B897F27761564A3A=Open in editor (set default behavior in preferences)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051909Z">
+        <seg>B897F27761564A3A=エディタで開く (設定でデフォルト動作を変更)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B8EA9A061D794748=Navigator</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000935Z">
+        <seg>B8EA9A061D794748=ナビゲータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B90A279A7257C793=Edit</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000510Z">
+        <seg>B90A279A7257C793=編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B9135835A9A61DD0=Medium</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153641Z">
+        <seg>B9135835A9A61DD0=中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B9450FA5B73E0242=Freeze track to mono, up to last non-offline FX</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110318Z">
+        <seg>B9450FA5B73E0242=次のオフラインエフェクトまでフリーズ (モノラル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B98A031D9BEEF64E=Time</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104719Z">
+        <seg>B98A031D9BEEF64E=時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B9ABDBF036490D44=Export preset library (.rpl)...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T152634Z">
+        <seg>B9ABDBF036490D44=プリセットライブラリをエクスポート (.rpl)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BA6CAA916A3AEE75=Item settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051147Z">
+        <seg>BA6CAA916A3AEE75=アイテム設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BA7A79B4D3479176=Beats (position only)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003443Z">
+        <seg>BA7A79B4D3479176=拍 (開始位置のみ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BA7DD3138B41C153=Set shape for selected points</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104225Z">
+        <seg>BA7DD3138B41C153=選択ポイントの形状を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BA7EEA47BC48E27A=Large</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153646Z">
+        <seg>BA7EEA47BC48E27A=大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BAC64C1B2E060EE5=Close</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000337Z">
+        <seg>BAC64C1B2E060EE5=閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BB0EF92F46BDB0DB=Redo</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153225Z">
+        <seg>BB0EF92F46BDB0DB=やり直す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BB2ECD751C866045=Render/freeze tracks</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103708Z">
+        <seg>BB2ECD751C866045=トラックをレンダリング・フリーズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BB844E058DECEFE5=MIDI Devices</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154020Z">
+        <seg>BB844E058DECEFE5=MIDIデバイス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BC1BCCE6A4775AF4=Increase by ~6% (one semitone)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111842Z">
+        <seg>BC1BCCE6A4775AF4=6% 増やす (半音)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BC24D1B6349B5A89=Fast start</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004431Z">
+        <seg>BC24D1B6349B5A89=始まりが急な曲線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BC328CB03B0D078E=Copy &amp;all FX\tCtrl+Shift+C</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110224Z">
+        <seg>BC328CB03B0D078E=全エフェクトをコピー (&amp;a)\tCtrl+Shift+C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BC3F5623627FE3E9=Add FX Chain</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112311Z">
+        <seg>BC3F5623627FE3E9=エフェクトチェーンwの追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BD6665EE0A2BDB92=Playrate fader range: 0.9-1.1</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112157Z">
+        <seg>BD6665EE0A2BDB92=再生速度フェーダの幅: 0.9-1.1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BD7850245F5A79EE=Import</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002939Z">
+        <seg>BD7850245F5A79EE=インポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BD80D7F68741D41A=Samples</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103736Z">
+        <seg>BD80D7F68741D41A=サンプル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BE1A8478FCC1F1FA=&amp;Track</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003149Z">
+        <seg>BE1A8478FCC1F1FA=トラック(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BE39148270D11909=(comp list)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003245Z">
+        <seg>BE39148270D11909=(編集記録リスト)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BE596784ED8BAE4C=Freeze Warning</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052956Z">
+        <seg>BE596784ED8BAE4C=フリーズ警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BE8A32189AE58F83=Edit cursor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T170459Z">
+        <seg>BE8A32189AE58F83=編集カーソル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BEA7703C415C702E=Small</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153638Z">
+        <seg>BEA7703C415C702E=小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BEDDCB0B40FD59A2=Allow media buffering</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003332Z">
+        <seg>BEDDCB0B40FD59A2=メディアのバッファリングを許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BEE3F1BDC2A992A1=Media Item Properties</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002902Z">
+        <seg>BEE3F1BDC2A992A1=メディアアイテムプロパティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C004CD40F2057E29=FX chains</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111722Z">
+        <seg>C004CD40F2057E29=エフェクトチェーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C01085DD37178417=File info:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000337Z">
+        <seg>C01085DD37178417=ファイル情報:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C038339424CBD482=Select envelope (env name)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111343Z">
+        <seg>C038339424CBD482=エンベロープを選択 (env name)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C065E9FEE11B2862=(current project)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002624Z">
+        <seg>C065E9FEE11B2862=(現在のプロジェクト)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C09170FD3E752A38=Automatically scroll view during playback</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003434Z">
+        <seg>C09170FD3E752A38=再生時に自動でスクロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C1F07AAFF4522636=File name:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002311Z">
+        <seg>C1F07AAFF4522636=ファイル名:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C30D5E2CF003330F=Merge source tempo map to project tempo map at</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001846Z">
+        <seg>C30D5E2CF003330F=この位置から読み込んだファイルのテンポを重ねる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C31088838B9A533C=Rendering PiP contents...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002816Z">
+        <seg>C31088838B9A533C=プロジェクト内プロジェクトをレンダリング...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C35B6227A5807B01=Save minimal undo states</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153118Z">
+        <seg>C35B6227A5807B01=プラグインの最低限のアンドゥ情報を保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C35BB11D6C364CCC=Parameter modulation</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153303Z">
+        <seg>C35BB11D6C364CCC=パラメーターモジュレーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C39132F1A8047E9F=Edit...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002012Z">
+        <seg>C39132F1A8047E9F=編集...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C3EB4B7A6BCD5F3C=New name:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000821Z">
+        <seg>C3EB4B7A6BCD5F3C=新しい名前:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C4E5E30C8A3E3BDF=Remove all FX\tShift+Delete</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110448Z">
+        <seg>C4E5E30C8A3E3BDF=全エフェクトを削除\tShift+Delete</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C524AA04CA044305=MIDI track controls</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051354Z">
+        <seg>C524AA04CA044305=MIDIトラックコントロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C54C5E311372A994=Notes</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001444Z">
+        <seg>C54C5E311372A994=音符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C5531D0DEE1F0D0D=Input</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112418Z">
+        <seg>C5531D0DEE1F0D0D=インプット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C644A2EBFF26E843=Automation mode:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000922Z">
+        <seg>C644A2EBFF26E843=オートメーションモード:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C659634857E27C38=path</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153705Z">
+        <seg>C659634857E27C38=パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C685A28B8DBF7F8B=Folder</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153254Z">
+        <seg>C685A28B8DBF7F8B=フォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C6FA709C7A5DB354=Output channels:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000343Z">
+        <seg>C6FA709C7A5DB354=出力チャンネル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C7317FFF2A84005C=Build 16 channels of MIDI routing to this track</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110135Z">
+        <seg>C7317FFF2A84005C=このトラック用に16チャンネル分のMIDIトラックを挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C7A89083E6E728EB=Project Directory Cleanup</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000522Z">
+        <seg>C7A89083E6E728EB=プロジェクトディレクトリの整理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C8A3EF986B3A45BF=Freeze track to multichannel, up to last selected FX</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110407Z">
+        <seg>C8A3EF986B3A45BF=選択エフェクトをフリーズ (マルチチャンネル)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CA142F03B9CABB64=Implode items across tracks into takes</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050852Z">
+        <seg>CA142F03B9CABB64=複数トラックのアイテムをテイクにまとめる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CA47517BDEFA4232=Linear</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051203Z">
+        <seg>CA47517BDEFA4232=直線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CA95C3C55E05662B=Reverse</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001148Z">
+        <seg>CA95C3C55E05662B=反転</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CAAB5CC146E0FC0B=Crop to active take</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003828Z">
+        <seg>CAAB5CC146E0FC0B=使用していないテイクを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CAC4592C4D4DD57A=Record mode: auto-punch selected items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052228Z">
+        <seg>CAC4592C4D4DD57A=録音モード: 選択アイテムの範囲でオートパンチ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CC1F02E05223C02F=Dock FX window in Docker</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110238Z">
+        <seg>CC1F02E05223C02F=エフェクトウィンドウをドッキング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CD674FEA536FDABD=Hide envelope</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111306Z">
+        <seg>CD674FEA536FDABD=エンベロープを隠す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CD9DE212764F150E=Save selected FX as chain...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110501Z">
+        <seg>CD9DE212764F150E=選択エフェクトをチェーンとして保存...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CE00C3235E535EAA=Save</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001721Z">
+        <seg>CE00C3235E535EAA=保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CE7E80ACF252CB16=&amp;Reverse items as new take</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003144Z">
+        <seg>CE7E80ACF252CB16=アイテムを反転させて新しいテイクを作成(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CF7AF55DCCD92445=Allow anticipative FX</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003321Z">
+        <seg>CF7AF55DCCD92445=先読みするエフェクトを許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D0C04B9E79D271AE=Track</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104857Z">
+        <seg>D0C04B9E79D271AE=トラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D13552E0001BF958=Control Surfaces</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154154Z">
+        <seg>D13552E0001BF958=コントロールサーフェス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D1E4A1A455A36989=Explode multichannel audio or MIDI items to new one-channel items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004358Z">
+        <seg>D1E4A1A455A36989=マルチチャンネルのアイテムをチャンネルごとに展開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D26FE1B4C8988F96=Muted</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001441Z">
+        <seg>D26FE1B4C8988F96=ミュート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D2714B0ED9D27FB1=Track Manager</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002830Z">
+        <seg>D2714B0ED9D27FB1=トラックマネージャー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D2BA30B556C02C0A=Time selection: Remove time selection and loop point selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T165700Z">
+        <seg>D2BA30B556C02C0A=時間選択: 時間選択とループポイントを解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D2F88B0EF54D2211=Remove track icon</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052340Z">
+        <seg>D2F88B0EF54D2211=トラックアイコンを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D35AD13842A55DEA=Markers</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001136Z">
+        <seg>D35AD13842A55DEA=マーカー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D3B242D430A5DB6C=Virtual MIDI Keyboard</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T105032Z">
+        <seg>D3B242D430A5DB6C=バーチャルキーボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D3E64988F293BA3A=Recording</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000316Z">
+        <seg>D3E64988F293BA3A=録音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D43B88702E996ED9=Filter:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002015Z">
+        <seg>D43B88702E996ED9=フィルタ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D4FDE496446E78EF=Playrate</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112346Z">
+        <seg>D4FDE496446E78EF=再生速度</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D61B178BCBC28C11=Paths</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153949Z">
+        <seg>D61B178BCBC28C11=パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D66D409D600C2D04=Mixer</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000433Z">
+        <seg>D66D409D600C2D04=ミキサー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D6DB6AF3F0039A90=Create new &amp;JS FX...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110718Z">
+        <seg>D6DB6AF3F0039A90=新規JSエフェクトを作成 (&amp;J)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D7121E5A0710CF4F=Preserve pitch in audio items when changing master playrate</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112225Z">
+        <seg>D7121E5A0710CF4F=プロジェクトの再生速度を変更してもアイテムのピッチを維持する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D7323C887B0A2951=Apply</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000334Z">
+        <seg>D7323C887B0A2951=適用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D7B51CFC5837E755=Rename</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002127Z">
+        <seg>D7B51CFC5837E755=名前を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D85ED6186B447CF9=FX</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001437Z">
+        <seg>D85ED6186B447CF9=エフェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D86C7175F627BC38=Select all items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153240Z">
+        <seg>D86C7175F627BC38=全てのアイテムを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D8ADC6186B88361A=on</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153338Z">
+        <seg>D8ADC6186B88361A=オン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D91781F057C31837=REAPER Import Options</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052808Z">
+        <seg>D91781F057C31837=REAPERインポートオプション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D91FCBB42B5B9077=Docker</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001202Z">
+        <seg>D91FCBB42B5B9077=ドック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D99EA6A0E05B0BEC=Transport</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000916Z">
+        <seg>D99EA6A0E05B0BEC=トランスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D9CD3B25D255019B=Open template...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052030Z">
+        <seg>D9CD3B25D255019B=テンプレートを開く...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DA38E298C189302F=Input channels:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000345Z">
+        <seg>DA38E298C189302F=入力チャンネル:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DAB01B50C7660150=Metronome enabled</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051438Z">
+        <seg>DAB01B50C7660150=メトロノームを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DB0FEB13427E7035=Custom track colors</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003839Z">
+        <seg>DB0FEB13427E7035=トラックの色を指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DB25337315BFD655=&amp;File</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003055Z">
+        <seg>DB25337315BFD655=ファイル(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DB6FC995D09C7078=Fast end</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004423Z">
+        <seg>DB6FC995D09C7078=終わりが急な曲線</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DB9EF3622F4C4895=Built-in MIDI editor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003524Z">
+        <seg>DB9EF3622F4C4895=ビルトインMIDIエディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DBE0EEA73EA7A24B=Edit: Undo</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153358Z">
+        <seg>DBE0EEA73EA7A24B=編集: 元に戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DCEF2B4D03DE723C=Name</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153208Z">
+        <seg>DCEF2B4D03DE723C=名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DCFEAB8BD451EB5C=Show action list</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153523Z">
+        <seg>DCFEAB8BD451EB5C=アクションリストを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DD0CE22D75D36ED1=Track name</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153313Z">
+        <seg>DD0CE22D75D36ED1=トラック名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DD8F228BCFA37CFF=Pause</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112340Z">
+        <seg>DD8F228BCFA37CFF=一時停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DDCECC683DEC9D6A=on punch-out/play</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000315Z">
+        <seg>DDCECC683DEC9D6A=パンチアウト・再生時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DDD50B6B9C96D4AA=Enable only when effect configuration is focused</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001603Z">
+        <seg>DDD50B6B9C96D4AA=エフェクト設定にフォーカスがあるときだけ有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DDDAF906972AD14A=Horizontal zoom</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001733Z">
+        <seg>DDDAF906972AD14A=横方向ズーム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DDDBC4B59922776E=Master Track</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051405Z">
+        <seg>DDDBC4B59922776E=マスタートラック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DE64131E0CEA10DA=Move File Error</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052728Z">
+        <seg>DE64131E0CEA10DA=ファイル移動時エラー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DEF52717C4E7101F=Read (play faders with armed envelopes)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111643Z">
+        <seg>DEF52717C4E7101F=Read (エンベロープの動きをフェーダに反映)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DF2472EC2AB0BAFB=Download Python</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003018Z">
+        <seg>DF2472EC2AB0BAFB=Python をダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DF45382BC646671C=No link</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T152702Z">
+        <seg>DF45382BC646671C=リンクしない</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E0A7E8E6C8588D64=Directory:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002303Z">
+        <seg>E0A7E8E6C8588D64=ディレクトリ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E0B104299A7A8E2E=time</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002936Z">
+        <seg>E0B104299A7A8E2E=時間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E194E0BBB250B47E=&amp;Trim items to selected area</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003212Z">
+        <seg>E194E0BBB250B47E=選択範囲でアイテムをトリム(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E19CAC48E2E6EA85=Sample rate:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000716Z">
+        <seg>E19CAC48E2E6EA85=サンプリングレート:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E1CA5A9A5CE93078=not rendering, ETA infinity</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000320Z">
+        <seg>E1CA5A9A5CE93078=レンダリングしていません</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E1E348931CD6C233=Item &amp;properties...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051126Z">
+        <seg>E1E348931CD6C233=アイテムプロパティ(&amp;p)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E217E1085C7ED06D=Searching...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001420Z">
+        <seg>E217E1085C7ED06D=検索中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E29A8B5D1C16061F=Toggle &amp;volume active</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104748Z">
+        <seg>E29A8B5D1C16061F=ボリュームを使用 (&amp;v)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E4053920A9B5A25A=Go to start of project</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112337Z">
+        <seg>E4053920A9B5A25A=プロジェクトの始まりに移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E485FC63E796EFFA=Move down</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112252Z">
+        <seg>E485FC63E796EFFA=下に移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E4EB1F77E012E753=Freeze track to stereo, up to last non-offline FX</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110436Z">
+        <seg>E4EB1F77E012E753=次のオフラインエフェクトまでフリーズ (ステレオ)&lt;分節 0498&gt;
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E53622684802B745=Master</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002108Z">
+        <seg>E53622684802B745=マスター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E5566C4604653F75=Undo History</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000643Z">
+        <seg>E5566C4604653F75=アンドゥ履歴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E607CAC0E0F5BB14=Open in last focused editor, clear editor first</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051940Z">
+        <seg>E607CAC0E0F5BB14=エディタをクリアして最後にフォーカスのあったエディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E67F0BA2C154FA57=Rename FX instance\tF2</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T102246Z">
+        <seg>E67F0BA2C154FA57=エフェクトに別の名前を付ける\tF2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E6B5A6A65044C93D=Reset color</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000611Z">
+        <seg>E6B5A6A65044C93D=色をリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E73F4D99E9F274CB=Touch (record fader movements to armed envelopes)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111659Z">
+        <seg>E73F4D99E9F274CB=Touch (フェーダの動きを記録)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E8589A5C2472187A=samples</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000341Z">
+        <seg>E8589A5C2472187A=サンプル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E871F70D1F455842=Take volume envelope</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104716Z">
+        <seg>E871F70D1F455842=テイクボリュームエンベロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E97ABAF631B4841C=aux sends</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001456Z">
+        <seg>E97ABAF631B4841C=外部センド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E9991E9C69A2E870=Envelopes</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001120Z">
+        <seg>E9991E9C69A2E870=エンベロープ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E9B5F27ED466AEF5=ins</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000443Z">
+        <seg>;E9B5F27ED466AEF5=入力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E9D9A68C20EC04ED=Time selection: Remove time selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T165633Z">
+        <seg>E9D9A68C20EC04ED=時間選択: 時間選択を解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EA615A5997239616=Edit FX Comment</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000851Z">
+        <seg>EA615A5997239616=エフェクトのコメントを編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EA7EDFD029F80877=Nudge left</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002735Z">
+        <seg>EA7EDFD029F80877=左へ移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EB6A3F98C6F7C92A=Set active takes to one random color</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103941Z">
+        <seg>EB6A3F98C6F7C92A=アクティブテイクをランダムな色に変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EB6AC1D6BBE0A433=Insert new track at end of track list</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051002Z">
+        <seg>EB6AC1D6BBE0A433=新規トラックを一番下に挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EBACDD7A1B7B9F32=Force Python to use</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153720Z">
+        <seg>EBACDD7A1B7B9F32=使用するPythonを指定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EC375DCC4CE39240=Set item timebase to beats (position, length, rate)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104058Z">
+        <seg>EC375DCC4CE39240=時間基準を拍 (開始位置・長さ・再生速度) に変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EC6669A655FB6232=Measures.Beats / Minutes:Seconds</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051431Z">
+        <seg>EC6669A655FB6232=小節.拍 / 分:秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EC752CC2DB12686D=Loop item source</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051334Z">
+        <seg>EC752CC2DB12686D=アイテムをループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;ED9D4CD707DD43C6=&amp;Paste FX\tCtrl+V, Ctrl+Insert</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T105120Z">
+        <seg>ED9D4CD707DD43C6=エフェクト貼り付け (&amp;P)\tCtrl+V, Ctrl+Insert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EDA2EFF8719B8390=Playrate fader range: 0.25-4.0 (default)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112120Z">
+        <seg>EDA2EFF8719B8390=再生速度フェーダの幅: 0.25-4.0 (デフォルト)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EDAADDAE852D16DE=Toggle volume (pre-FX) visible</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104840Z">
+        <seg>EDAADDAE852D16DE=エフェクト前ボリュームを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EE28FE89D1A7A151=Edit Region</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000750Z">
+        <seg>EE28FE89D1A7A151=リージョンを編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EE5CF20F98160706=Unfreeze tracks (restore previous items and FX)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T105015Z">
+        <seg>EE5CF20F98160706=フリーズを解除 (前のアイテムとエフェクトを復元)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EE914AABB985B447=Tool window positions</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001726Z">
+        <seg>EE914AABB985B447=ツールウィンドウの位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;EFC8CD9D920B916F=Implode items on same track into takes</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050920Z">
+        <seg>EFC8CD9D920B916F=同じトラックのアイテムをテイクにまとめる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F07B8BF09056DBC7=Freeze track</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110242Z">
+        <seg>07B8BF09056DBC7=トラックをフリーズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F0920ED4F28AEEBC=Seconds</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103810Z">
+        <seg>F0920ED4F28AEEBC=秒</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F09E4B5C35AA14B9=Cancel</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000331Z">
+        <seg>F09E4B5C35AA14B9=キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F0EBC9DF5B847ED6=Record</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T112349Z">
+        <seg>F0EBC9DF5B847ED6=録音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F10F4B1B4D6DC250=Clear</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001958Z">
+        <seg>F10F4B1B4D6DC250=クリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F1707CB9030B35E0=Automatic record-arm when track selected</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110750Z">
+        <seg>F1707CB9030B35E0=トラック選択時に録音待機状態にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F1C5C2EC7C56CF0D=Delete points in time selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111258Z">
+        <seg>F1C5C2EC7C56CF0D=選択時間内のポイントを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F2E31CE8AE28842A=Implode items across tracks into items on one track</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050859Z">
+        <seg>F2E31CE8AE28842A=複数トラックのアイテムをトラックにまとめる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F5E3E68D409A3A52=&amp;Group</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003101Z">
+        <seg>F5E3E68D409A3A52=グループ(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F65CD38614815711=Next take</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051616Z">
+        <seg>F65CD38614815711=次のテイク</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F67F48495D3866C3=Consolidating...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001951Z">
+        <seg>F67F48495D3866C3=統合中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F685FB3A91025549=Browse...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000331Z">
+        <seg>F685FB3A91025549=参照...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F6CF18DD8FBE4F06=Media Item Defaults</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154013Z">
+        <seg>F6CF18DD8FBE4F06=メディアアイテムデフォルト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F70C14BE35114F9B=New...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002025Z">
+        <seg>F70C14BE35114F9B=新規...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F812C7145E261C23=Remove</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000312Z">
+        <seg>F812C7145E261C23=削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F8D05E3085FD2B41=Loop points: Set end point</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153506Z">
+        <seg>F8D05E3085FD2B41=ループポイント: ループ終了地点を設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F8E6A0B81A77C5E9=Reset all MIDI devices</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000501Z">
+        <seg>F8E6A0B81A77C5E9=すべてのMIDIデバイスをリセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F8E8A9C19CDE7A59=Project Settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000319Z">
+        <seg>F8E8A9C19CDE7A59=プロジェクト設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F9519A70026F7B52=Position:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000547Z">
+        <seg>F9519A70026F7B52=位置:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F96490112D1B162F=Lock track controls</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051323Z">
+        <seg>F96490112D1B162F=トラックコントロールをロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F97A12BF98D450CF=Samplerate:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000342Z">
+        <seg>F97A12BF98D450CF=サンプリングレート:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F9E04376D3B7E6DE=Remove active comp from list</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052317Z">
+        <seg>F9E04376D3B7E6DE=アクティブな編集履歴をリストから削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FA08A03DC81EC720=Plug-in name</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153310Z">
+        <seg>FA08A03DC81EC720=プラグイン名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FA3FBBA0B7D7E042=External Editors</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154200Z">
+        <seg>FA3FBBA0B7D7E042=外部エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FA779BCA02DBA08E=Reduce envelope points</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002201Z">
+        <seg>FA779BCA02DBA08E=エンベロープポイントを減らす</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FB90AE71C9284F3A=Glue items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050708Z">
+        <seg>FB90AE71C9284F3A=アイテムを結合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FB993B4366B6DAE5=Compatibility</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154135Z">
+        <seg>FB993B4366B6DAE5=互換性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FBBD098069A14870=Import media cues from items as project markers</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050945Z">
+        <seg>FBBD098069A14870=メディアのキューをプロジェクトマーカーとしてインポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FC08989D53C1D223=Show MIDI track control panel</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104420Z">
+        <seg>FC08989D53C1D223=MIDIトラックコントロールパネルを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FC55E4C505C541DE=Parameter</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153257Z">
+        <seg>FC55E4C505C541DE=パラメータ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FDE95463547E83EB=Render status</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000323Z">
+        <seg>FDE95463547E83EB=レンダリング状況</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FDFA2E97CD8FDE19=Remove tracks</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052344Z">
+        <seg>FDFA2E97CD8FDE19=トラックを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FDFF2C38C037D04E=No-op (no action)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153515Z">
+        <seg>FDFF2C38C037D04E=操作無し (no action)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FE0BBBB916484A16=New project bay window</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153219Z">
+        <seg>FE0BBBB916484A16=新しいプロジェクトベイウィンドウ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FF07D0ECF3A0E53D=Heal splits in items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050744Z">
+        <seg>FF07D0ECF3A0E53D=分割したアイテムを再結合</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
