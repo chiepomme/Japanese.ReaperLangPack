@@ -1,1 +1,2 @@
 View	表示
+timebase	時間基準
