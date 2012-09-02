@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;165C255907F1A60A=The following effect plug-in could not be loaded:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180516Z">
+        <seg>165C255907F1A60A=以下のプラグインは読み込めませんでした:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;16780B33F0A62D18=Remove selected</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002054Z">
@@ -1298,6 +1306,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120901T112218Z">
         <seg>1902312630A17C31=検索に失敗した場合、ファイルをオフラインにして次のファイルを検索する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;196CA70C1D9D93A4=Close all projects</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180820Z">
+        <seg>196CA70C1D9D93A4=全プロジェクトを閉じる</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1522,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T173105Z">
         <seg>1D883542B837B976=複数の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1D979EA89D498269=Export project MIDI...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180928Z">
+        <seg>1D979EA89D498269=MIDI ファイルの書き出し...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2314,6 +2338,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T013044Z">
         <seg>3410CCD7F87501B1=前回の設定でクオンタイズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3426BEEBB70AE42C=(recent project list)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180809Z">
+        <seg>3426BEEBB70AE42C=(プロジェクト履歴)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3310,6 +3342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;4DB5FA4506AE4E81=Save project as template...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180746Z">
+        <seg>4DB5FA4506AE4E81=プロジェクトをテンプレートとして保存...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;4E5F93B30C786CEB=Track Envelopes</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000927Z">
@@ -3370,6 +3410,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120831T235642Z">
         <seg>4F739C179A4C64E1=トラックエフェクトを適用して新しいテイクを作成 (MIDI)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;50983881D9DB7F09=Bring effect online</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180525Z">
+        <seg>50983881D9DB7F09=エフェクトをオンラインにする</seg>
       </tuv>
     </tu>
     <tu>
@@ -3518,6 +3566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;5445E8C0189E9239=(effect configuration is preserved)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180537Z">
+        <seg>5445E8C0189E9239=(エフェクト設定は保持されます)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;5493EE7052DCF71B=Options</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002328Z">
@@ -3554,6 +3610,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000316Z">
         <seg>5565002CCE1DFBC7=新しいファイルを管理する画面を開く:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;55AAEC801B4BFC2B=&amp;Clean current project directory...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180937Z">
+        <seg>55AAEC801B4BFC2B=未使用ファイルの削除 (&amp;C)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3728,8 +3792,8 @@
       <tuv lang="EN-US">
         <seg>;5A023884C6A47E43=&amp;Save project</seg>
       </tuv>
-      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120829T122337Z">
-        <seg>5A023884C6A47E43=&amp;Save project</seg>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180724Z">
+        <seg>5A023884C6A47E43=上書き保存 (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3994,6 +4058,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051551Z">
         <seg>60BCFF25EB54665C=ファイルで定められた位置にアイテムを移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;60DB6452AD610175=Save all projects</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180825Z">
+        <seg>60DB6452AD610175=全プロジェクトを保存</seg>
       </tuv>
     </tu>
     <tu>
@@ -4306,6 +4378,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004313Z">
         <seg>66F59CEEAE4451AB=すべてのテイクを並べてアイテムに展開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;674445A824677F21=Project &amp;templates</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180736Z">
+        <seg>674445A824677F21=プロジェクトテンプレート (&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4910,6 +4990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;7628366676B4E4DB=Consolidate/E&amp;xport tracks...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180920Z">
+        <seg>7628366676B4E4DB=ファイル再構築/トラック別書き出し (&amp;X)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;76AC8A0EF584639A=&amp;New project</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120829T122325Z">
@@ -5002,6 +5090,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120901T000036Z">
         <seg>789C0F1E809A6DEF=ステレオ 31/32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;78BD808222DCC43D=Batch file/item converter</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180945Z">
+        <seg>78BD808222DCC43D=一括ファイル・アイテム変換</seg>
       </tuv>
     </tu>
     <tu>
@@ -5534,6 +5630,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;86A76E9A54D819DA=&amp;Recent projects</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180801Z">
+        <seg>86A76E9A54D819DA=プロジェクト履歴 (&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;86C526176585552D=Output format:</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001635Z">
@@ -5728,8 +5832,8 @@
       <tuv lang="EN-US">
         <seg>;8A3F14717826D8D1=Width</seg>
       </tuv>
-      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153323Z">
-        <seg>8A3F14717826D8D1=幅</seg>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180452Z">
+        <seg>8A3F14717826D8D1=パンの幅</seg>
       </tuv>
     </tu>
     <tu>
@@ -6950,6 +7054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;A092E5D2A26EFA9C=Close project</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180815Z">
+        <seg>A092E5D2A26EFA9C=プロジェクトを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;A0CB20A955DAF552=Show action list...</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104427Z">
@@ -7886,6 +7998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;B633F1942B15AC70=Save live output to disk (bounce)...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180854Z">
+        <seg>B633F1942B15AC70=メイン出力をそのままファイルに録音...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;B6616B85587122F2=Prevent anticipative FX</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052112Z">
@@ -7970,6 +8090,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051909Z">
         <seg>B897F27761564A3A=エディタで開く (設定でデフォルト動作を変更)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B8BB98CEA245679D=Save project &amp;as...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180712Z">
+        <seg>B8BB98CEA245679D=名前を付けて保存 (&amp;A)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8174,6 +8302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;BBB3FBBEB5329C39=&amp;Project settings...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180833Z">
+        <seg>BBB3FBBEB5329C39=プロジェクト設定 (&amp;P)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;BBE9B04C60CAD394=Toolbar: Open MIDI toolbar 2 at mouse cursor</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120831T163419Z">
@@ -8350,6 +8486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;C0235533455B391F=(project template list)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180755Z">
+        <seg>C0235533455B391F=(プロジェクトテンプレートリスト)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;C038339424CBD482=Select envelope (env name)</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111343Z">
@@ -8402,6 +8546,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120831T235534Z">
         <seg>C12308F1D62D3AC5=ステレオ 63/64</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C195B1ACA8F965EB=down</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180618Z">
+        <seg>C195B1ACA8F965EB=縮小</seg>
       </tuv>
     </tu>
     <tu>
@@ -9262,6 +9414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;D898C4186B75D6AA=up</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180615Z">
+        <seg>D898C4186B75D6AA=拡大</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;D8ADC6186B88361A=on</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153338Z">
@@ -9314,6 +9474,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001202Z">
         <seg>D91FCBB42B5B9077=ドック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D95776186C182E28==&gt;</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180545Z">
+        <seg>D95776186C182E28=→</seg>
       </tuv>
     </tu>
     <tu>
