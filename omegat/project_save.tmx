@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;00F8AF1A6A14D288=Snap settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T155727Z" creationid="doranarasi" creationdate="20140201T143942Z">
+        <seg>00F8AF1A6A14D288=スナップ設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;01262900CB9ABE4B=Loop points: Remove loop points</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153428Z">
@@ -694,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;0971916D9810DAA7=seconds (can cause multiple files per track)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T024938Z" creationid="doranarasi" creationdate="20140202T024938Z">
+        <seg>0971916D9810DAA7=秒 (トラックごとに複数ファイル生成の可能性あり)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;09939A2A8DB73EDE=Performance Meter</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000830Z">
@@ -1054,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;10B157188C8B1599=Faster responding jog</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T150456Z">
+        <seg>10B157188C8B1599=高速なジョグ応答</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;10D0E37E59744608=BPM</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002122Z">
@@ -1398,6 +1422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;1593661A56EFAEDD=Snap cursor to edges of media items on any track</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T161245Z" creationid="doranarasi" creationdate="20140201T161245Z">
+        <seg>1593661A56EFAEDD=トラック上のメディアアイテムのエッジにカーソルをスナップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;1598EBACCB0F49EA=Reverse active take</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T103732Z">
@@ -1410,6 +1442,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20121208T110359Z">
         <seg>15A9C253226734CA=アイテム情報:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;15A9DE70DEE257AE=Primary Editor:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T155836Z">
+        <seg>15A9DE70DEE257AE=標準エディタ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1434,6 +1474,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000338Z">
         <seg>16464B290024A7A0=オーディオデバイス設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;164AAD0DE75983A4=(recommended: 1 per CPU core.</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T165103Z" creationid="doranarasi" creationdate="20140201T164946Z">
+        <seg>164AAD0DE75983A4=(CPUコアの数か、</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;184CBF9992046998=Force project time signatures to have beats on whole samples</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T145331Z">
+        <seg>184CBF9992046998=全体の拍を持ったサンプルの拍子記号を強制する</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;1861675F9994F8B9=Stereo 45/46</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120901T000027Z">
@@ -1678,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;1A0D36499DEB718F=Send files to recycle bin (safer)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022517Z" creationid="doranarasi" creationdate="20140202T022517Z">
+        <seg>1A0D36499DEB718F=ファイルをゴミ箱へ (安全)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;1A236FDD7E5FF32C=Custom</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153341Z">
@@ -1770,6 +1834,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120831T164454Z">
         <seg>1B5A9BC5A2786229=Python のライブラリの変更は、REAPER の再起動が必要です。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;1BECAFEE943F02F9=Copy imported media to project media directory</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T034340Z">
+        <seg>1BECAFEE943F02F9=プロジェクトメディアディレクトリにインポートされたメディアをコピー</seg>
       </tuv>
     </tu>
     <tu>
@@ -2118,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;21D9AFD3561EE5AB=Stereo</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T024759Z" creationid="doranarasi" creationdate="20140202T024759Z">
+        <seg>21D9AFD3561EE5AB=ステレオ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;21E4A0FB10179834=Reduce number of points...</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111321Z">
@@ -2130,6 +2210,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051528Z">
         <seg>21F4EDEE5D02BA27=アイテムと一緒にエンベロープポイントを移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;220835B894C9D178=Control surfaces</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T155347Z">
+        <seg>220835B894C9D178=コントロールサーフェス</seg>
       </tuv>
     </tu>
     <tu>
@@ -2170,6 +2258,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104845Z">
         <seg>22BB6337A73E9205=ボリュームを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;22E1566E7D716DFB=Master VU settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T163505Z" creationid="doranarasi" creationdate="20140201T163505Z">
+        <seg>22E1566E7D716DFB=マスターVU設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -2270,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;24734F4ACE59E391=Embed project tempo (use sparingly)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T153617Z">
+        <seg>24734F4ACE59E391=埋め込みプロジェクトのテンポ（利用は控えめ）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;24962B4247630C73=MIDI output</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T173059Z">
@@ -2346,6 +2450,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T010935Z">
         <seg>25AC3C63E81691A5=波形表示 (&amp;K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;25B661438F7A03AE=Override default track pan law</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T163439Z" creationid="doranarasi" creationdate="20140201T163405Z">
+        <seg>25B661438F7A03AE=既定のパン設定を無視</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;2B38050561E7CD8C=Display gain:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T164526Z" creationid="doranarasi" creationdate="20140201T164500Z">
+        <seg>2B38050561E7CD8C=表示ゲイン:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;2B4E18A3D5201CFA=Pan Law</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001045Z">
@@ -2594,6 +2714,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120829T121121Z">
         <seg>2C078B30A2995EDB=ReaRoute 出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2C527E4BC4E1E850=Media buffer size:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T165138Z" creationid="doranarasi" creationdate="20140201T165138Z">
+        <seg>2C527E4BC4E1E850=メディアバッファサイズ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2654,6 +2782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;2D6B74025CB78209=Show dotted grid lines</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T155836Z" creationid="doranarasi" creationdate="20140201T155836Z">
+        <seg>2D6B74025CB78209=グリッドを点線で表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;2E287BE9B3A7F568=Nudge right</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002737Z">
@@ -2682,6 +2818,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104311Z">
         <seg>2E50A636B3040F96=トラックの時間基準を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;2ED3934DE5A105B2=Peak Only</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T164250Z" creationid="doranarasi" creationdate="20140201T164023Z">
+        <seg>2ED3934DE5A105B2=ピークのみ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2738,6 +2882,22 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20121208T105719Z">
         <seg>30CEDD945AFC126E=拍子を設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;30CEF63161AD2E19=Show preview of recording items while recording, update frequency:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T151723Z">
+        <seg>30CEF63161AD2E19=録音中に表示するアイテム録音プレビューの更新頻度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;30D3316093DF2C40=Tail length when using Apply FX to items:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T034859Z">
+        <seg>30D3316093DF2C40=アイテムにFXを適用し使用している場合の末尾の長さ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;3367C07971B9528E=(leave blank to set the default editors)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T155832Z">
+        <seg>3367C07971B9528E=(デフォルトのエディタを設定するには、空白のままに)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;33768227F231955E=Add Sysex Event</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20121208T105920Z">
@@ -2886,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;33A92C8FA5438A7C=Editor Configuration</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T155729Z">
+        <seg>33A92C8FA5438A7C=エディター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;33B126F31D7ADF8D=Display preview position in tenths of seconds</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120831T163841Z">
@@ -2918,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;3470CDBB0C544765=Media items</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T160225Z" creationid="doranarasi" creationdate="20140201T160221Z">
+        <seg>3470CDBB0C544765=メディアアイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;3493CF816CA136A0=Action: Wait 0.1 seconds before next action</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120907T143347Z">
@@ -2938,6 +3122,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003252Z">
         <seg>350E0F395B7F1C85=(テイクリスト)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;3538F7CA3C2A2A95=Allow large files to use Wave64</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T153624Z">
+        <seg>3538F7CA3C2A2A95=大音量のファイルへのWave64の使用を許可</seg>
       </tuv>
     </tu>
     <tu>
@@ -2970,6 +3162,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120901T112114Z">
         <seg>35D50776DD5FE769=全ての見つからないファイルを無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;35DF1AFCAFFB37CD=WAV bit depth:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T153639Z">
+        <seg>35DF1AFCAFFB37CD=WAV bit 深度:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3470,6 +3670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;3EE82E06F8C5EE8E=Selected</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022956Z" creationid="doranarasi" creationdate="20140202T022956Z">
+        <seg>3EE82E06F8C5EE8E=選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;3F0C4A774B49AF33=Run/close</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002034Z">
@@ -3638,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;4355AA4DBCB77855=Red threshold:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T164619Z" creationid="doranarasi" creationdate="20140201T164619Z">
+        <seg>4355AA4DBCB77855=レッドスレッショルド:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;43632077D6FCDE72= - NOT FULLY CONNECTED</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T173029Z">
@@ -3782,6 +3998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;46B10D8B633443CD=Include project filename in BWF data</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T153620Z">
+        <seg>46B10D8B633443CD=プロジェクトのファイル名をBWFデータに組み込む</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;46B2F90EFC202F2F=Automatically resize FX windows:</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120830T145555Z">
@@ -3794,6 +4018,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T173625Z">
         <seg>46BBE03B4E465FE9=レンダリング時リサンプリングモード:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;46CF8C43686D1A27=Snap:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T155730Z" creationid="doranarasi" creationdate="20140201T145054Z">
+        <seg>46CF8C43686D1A27=スナップ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4062,6 +4294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;4C121E685B2BF818=Double length of MIDI (repeating contents)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T144634Z">
+        <seg>4C121E685B2BF818=MIDI長さ倍加（内容リピート）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;4C2711165B524E16=Unselect all tracks/items/envelope points</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120820T134439Z">
@@ -4170,6 +4410,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20121208T102929Z">
         <seg>4EF8C853781760C8=アクティブでない全ての MIDI アイテムを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;4F2B31BBF3D2C295=In loop recording, discard incomplete first or last takes if at least one full loop was recorded</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T151705Z">
+        <seg>4F2B31BBF3D2C295=ループレコーディングで十分なループが記録された場合、最初か最後の不完全なテイクを破棄</seg>
       </tuv>
     </tu>
     <tu>
@@ -4326,6 +4574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;52642B06790DC836=Media items snap at:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T161332Z" creationid="doranarasi" creationdate="20140201T161326Z">
+        <seg>52642B06790DC836=メディアアイテムをスナップ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;5267FAD4364EECB7=Adjust media to project tempo</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120829T120705Z">
@@ -4470,6 +4726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;55ED87A57563F586=Copying File...</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022857Z" creationid="doranarasi" creationdate="20140202T022400Z">
+        <seg>55ED87A57563F586=ファイルコピー中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;5601B9A57A757ADB=Take channel mode: Normal</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104646Z">
@@ -4498,6 +4762,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120901T000032Z">
         <seg>569914577044B0F7=ステレオ 38/39</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5705FAACAE6DC64F=Only play selected tracks when scrubbing/jogging</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T150349Z">
+        <seg>5705FAACAE6DC64F=スクラブ,ジョグ時に選択したトラックのみを再生</seg>
       </tuv>
     </tu>
     <tu>
@@ -4562,6 +4834,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20121208T105202Z">
         <seg>580A497A940808A8=ミキサーに表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;581FB0AB97CF5030=Auto-select CC when moving/copying within project time selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T143009Z">
+        <seg>581FB0AB97CF5030=選択範囲内のプロジェクトを移動,コピーする際にCCを自動で選択する</seg>
       </tuv>
     </tu>
     <tu>
@@ -4702,6 +4982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;5A440BC2BE969608=Snap distance:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T155724Z" creationid="doranarasi" creationdate="20140201T155553Z">
+        <seg>5A440BC2BE969608=スナップ距離:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;5A6DE0CA99B71E37=Show all active track envelopes</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T111522Z">
@@ -4834,6 +5122,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000802Z">
         <seg>5C973D1CB80B0D9F=レンダリング...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;5CA7B4BF0F7E6D68=Warn when unable to open audio/MIDI devices</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T154814Z">
+        <seg>5CA7B4BF0F7E6D68=オーディオ,MIDIデバイスを開くことができないときに警告する</seg>
       </tuv>
     </tu>
     <tu>
@@ -5102,6 +5398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;61BEF8CE252BFBF0=Audio reading/processing threads:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T165104Z" creationid="doranarasi" creationdate="20140201T164712Z">
+        <seg>61BEF8CE252BFBF0=オーディオ 読み出し/処理 スレッド:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;61C27997277BA016=Take channel mode: Mono (Downmix)</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T011241Z">
@@ -5238,6 +5542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;63D6E48C1A4C24D7=RMS Only</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T164247Z" creationid="doranarasi" creationdate="20140201T164032Z">
+        <seg>63D6E48C1A4C24D7=RMSのみ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;63E5725DEFE77F92=Visit</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T014439Z">
@@ -5306,6 +5618,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120907T144059Z">
         <seg>64AB50E4099E33AC=ソースの MIDI チャンネル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;64B7B388D17F971F=File type (extension):</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022624Z" creationid="doranarasi" creationdate="20140202T022624Z">
+        <seg>64B7B388D17F971F=ファイルの種類 (拡張子):</seg>
       </tuv>
     </tu>
     <tu>
@@ -5478,14 +5798,6 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
-        <seg>;67D1CB88D6D1EB6C=MIDI editor mouse modifiers...</seg>
-      </tuv>
-      <tuv lang="JA-JP" changeid="chiepomme" changedate="20121208T103454Z">
-        <seg>67D1CB88D6D1EB6C=MIDI editor mouse modifiers...</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="EN-US">
         <seg>;67D35DD28653A00A=bypassed</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120829T120324Z">
@@ -5514,6 +5826,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T172019Z">
         <seg>682ABD4822D9748D=再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;682D26505F615AFB=Automatically rebuild peaks</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T034521Z">
+        <seg>682D26505F615AFB=自動的にピークを再構築</seg>
       </tuv>
     </tu>
     <tu>
@@ -5638,6 +5958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;6AF1C766315DA216=Tiny fade in on playback start</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T154934Z">
+        <seg>6AF1C766315DA216=再生開始時に小さなフェードイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;6B02132585D23245=Save undo history with project files (in .RPP-UNDO file)</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120901T111358Z">
@@ -5650,6 +5978,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120831T165608Z">
         <seg>6B1D65CC9AFF4105=&lt;使用しない&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6B38B6D690F4D2B5=Grid line Z order:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T155938Z" creationid="doranarasi" creationdate="20140201T155938Z">
+        <seg>6B38B6D690F4D2B5=グリッドラインの表示:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5674,6 +6010,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T173033Z">
         <seg>6B562789A5A9817F=ウィンドウを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;6B7E0357A34BD690=Display offset:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T164531Z" creationid="doranarasi" creationdate="20140201T164410Z">
+        <seg>6B7E0357A34BD690=表示閾値:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5926,6 +6270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;706BC8DD84E18043=Prompt to confirm filename on \"open copy in editor\"</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T034721Z">
+        <seg>706BC8DD84E18043=「コピーをエディタで開く」でファイル名を確認するためのプロンプト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;708F9A0C043B4C2E=Always</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120831T165826Z">
@@ -6086,6 +6438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;73194AEE0903A46F=Track Settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T020622Z">
+        <seg>73194AEE0903A46F=トラックの設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;73532F71FB46906C=(not connected)</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120831T163446Z">
@@ -6138,6 +6498,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120829T122225Z">
         <seg>754C0069B8672878=全てのトラックを最小化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;75501023A0653617=Remove selected files</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T155543Z">
+        <seg>75501023A0653617=選択ファイルを削除</seg>
       </tuv>
     </tu>
     <tu>
@@ -6238,10 +6606,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;771BE661607B660C=Audio settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T153707Z">
+        <seg>771BE661607B660C=オーディオ設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;772CECA01AD73CB4=Value</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153320Z">
         <seg>772CECA01AD73CB4=値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7744ECC4A8F97396=Show non-standard stereo channel pairs (i.e. Input 2/Input 3 etc)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T155251Z">
+        <seg>7744ECC4A8F97396=非標準的なステレオチャンネルのペアを表示する (Input2,Input3など)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6274,6 +6658,22 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120830T145200Z">
         <seg>786552F5E9DDDDD7=スウィング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7877FCEAC5B8AC76=(if required)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T025317Z" creationid="doranarasi" creationdate="20140202T025317Z">
+        <seg>7877FCEAC5B8AC76=(必要な場合)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;788A6BC029A47D7D=Consolidate to:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T025215Z" creationid="doranarasi" creationdate="20140202T025142Z">
+        <seg>788A6BC029A47D7D=フォーマット:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6334,6 +6734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;79BF2A7701C47BF6=Snap to grid at any distance</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T160736Z" creationid="doranarasi" creationdate="20140201T160736Z">
+        <seg>79BF2A7701C47BF6=任意の距離でグリッドにスナップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;79D6347556189739=Measures.Beats</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051416Z">
@@ -6386,6 +6794,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120831T234959Z">
         <seg>7AE99F6B1F0C836B=新しいポイントを作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7B1FC13C44802440=Peak</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T164243Z" creationid="doranarasi" creationdate="20140201T164214Z">
+        <seg>7B1FC13C44802440=ピーク</seg>
       </tuv>
     </tu>
     <tu>
@@ -6486,6 +6902,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;7CDFF1D2B38BE006=Consolidation Settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T024835Z" creationid="doranarasi" creationdate="20140202T024835Z">
+        <seg>7CDFF1D2B38BE006=統合の設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;7CE6FE4C74542BB2=Region Manager...</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000757Z">
@@ -6526,6 +6950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;7D6C52FCAEDCCFCF=Marker line Z order:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T155951Z" creationid="doranarasi" creationdate="20140201T155951Z">
+        <seg>7D6C52FCAEDCCFCF=マーカーラインの表示:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;7DA8EA3426CA11D3=Description</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002618Z">
@@ -6538,6 +6970,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T001143Z">
         <seg>7E11B9683132FA9E=キーボード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;7E19925878CB813A=On the fly (recommended)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T152023Z">
+        <seg>7E19925878CB813A=その場で (推奨)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6646,6 +7086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;80A302C4720204A1=Show grid, line spacing:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T155737Z" creationid="doranarasi" creationdate="20140201T154929Z">
+        <seg>80A302C4720204A1=グリッドラインのスペース:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;80B08A2E37407C36=Image load error</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T052546Z">
@@ -6746,6 +7194,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120819T171521Z">
         <seg>82CD794FA2EDD475=トランスポート: 再生/停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;82E42D2FF8D25A8D=Could not get channel info for effects (are they multichannel?)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T143824Z">
+        <seg>82E42D2FF8D25A8D=エフェクトのチャンネル情報を取得できませんでした (マルチチャンネル対応ですか？)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7014,6 +7470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;87357E06E9DEB8FB=Engage scrub when playing (stopping playback)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T150659Z">
+        <seg>87357E06E9DEB8FB=再生時にスクラブをエンゲージ (プレイバック停止)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;87581AC5D2800078=Buffers:</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120901T110030Z">
@@ -7126,6 +7590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;88D3DE337F7E5D78=Close audio device when inactive and ReWire devices are open</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T154610Z">
+        <seg>88D3DE337F7E5D78=不活発なReWireデバイスが開いているときに時にオーディオデバイスを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;88FCEA18F589F1D1=Locking settings...</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120829T124153Z">
@@ -7174,6 +7646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;89B473D8A650A4CB=Selection</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T160604Z" creationid="doranarasi" creationdate="20140201T160548Z">
+        <seg>89B473D8A650A4CB=選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;89C0342F7627AB40=Theme element finder</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000259Z">
@@ -7202,6 +7682,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180452Z">
         <seg>8A3F14717826D8D1=パンの幅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;8AD3CF43B42E168A=Secondary Editor:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T155845Z">
+        <seg>8AD3CF43B42E168A=第2エディタ:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7350,6 +7838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;8D9454B5ACC4065B=Clear editor when changing active media item (shift toggles)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T144303Z">
+        <seg>8D9454B5ACC4065B=アクティブなメディア項目を変更するときにエディタをクリア(トグルShift)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;8D96C4FE778D9CA7=Source properties...</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T173344Z">
@@ -7454,6 +7950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;8FFF66C9C9744E1E=Media settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T034147Z">
+        <seg>8FFF66C9C9744E1E=メディア設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;9032B6D2F8CCF061=Show tracks that are in folders</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120829T121705Z">
@@ -7490,6 +7994,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20121208T104737Z">
         <seg>909B744AC415071D=使用しているメディアも全てコピーする:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;909EA4BEDF903541=minimum:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T155750Z" creationid="doranarasi" creationdate="20140201T143647Z">
+        <seg>909EA4BEDF903541=最小:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7586,6 +8098,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T053048Z">
         <seg>9208F9E3B41AD8F7=%d 個のトラックがフリーズ後に編集されています。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;922E6A2883A2E7BC=After recording</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T151958Z">
+        <seg>922E6A2883A2E7BC=記録後</seg>
       </tuv>
     </tu>
     <tu>
@@ -7702,6 +8222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;94066D118035EEF6=Ignore silence shorter than</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T023043Z" creationid="doranarasi" creationdate="20140202T023043Z">
+        <seg>94066D118035EEF6=短すぎる無音を無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;941DEA15C4817EEC=Set color...</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T000617Z">
@@ -7810,6 +8338,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154029Z">
         <seg>96F551BDA5577675=表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9745F60ABA894258=Save current project before updating project</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022949Z" creationid="doranarasi" creationdate="20140202T022929Z">
+        <seg>9745F60ABA894258=プロジェクトを更新する前に現在のプロジェクトを保存する</seg>
       </tuv>
     </tu>
     <tu>
@@ -7934,6 +8470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;9934781AD1C1A171=Snap to project sample rate</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T161944Z" creationid="doranarasi" creationdate="20140201T161944Z">
+        <seg>;9934781AD1C1A171=スナップにプロジェクトのサンプルレートを投影</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;9961CF7D0DA344E5=Project Bay Comment</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120907T150515Z">
@@ -8002,6 +8546,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T104852Z">
         <seg>9A96C7D5CB612D76=ツールバードック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9A9E25AAEAC16851=Set media items offline when application is not active</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T034449Z">
+        <seg>9A9E25AAEAC16851=アプリケーションがアクティブでないときにオフラインメディア項目を設定する</seg>
       </tuv>
     </tu>
     <tu>
@@ -8598,6 +9150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;9F420D062BE2C8BA=Manually</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T151954Z">
+        <seg>9F420D062BE2C8BA=手動 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;9F5BC732DF031FE9=Item notes...</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120901T000211Z">
@@ -8614,6 +9174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;9F7A79448A2AADDB=Save new project as:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022850Z" creationid="doranarasi" creationdate="20140202T022850Z">
+        <seg>9F7A79448A2AADDB=名前を付けて保存...:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;9FA639597C9378AB=Search...</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120901T112222Z">
@@ -8626,6 +9194,22 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120831T235204Z">
         <seg>9FDED13C922E67FE=マーカーを挿入...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;9FFBE5433EFE0406=Mode: event list</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T144521Z">
+        <seg>9FFBE5433EFE0406=モード: イベントリスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A0138F029D3F9F6A=Output consolidated files to directory:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T025218Z" creationid="doranarasi" creationdate="20140202T025123Z">
+        <seg>A0138F029D3F9F6A=統合ファイル出力先:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8650,6 +9234,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180815Z">
         <seg>A092E5D2A26EFA9C=プロジェクトを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A0B572EEEF748C02=Explore</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022424Z" creationid="doranarasi" creationdate="20140202T022424Z">
+        <seg>A0B572EEEF748C02=エクスプローラー</seg>
       </tuv>
     </tu>
     <tu>
@@ -8714,6 +9306,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T002820Z">
         <seg>A1C5EC4ACA9C56C0=フリーズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A209F590DEBF0FAE=Auto-detect the number of needed audio processing threads</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T165105Z" creationid="doranarasi" creationdate="20140201T164653Z">
+        <seg>A209F590DEBF0FAE=必要なオーディオ処理スレッドの数を自動検出</seg>
       </tuv>
     </tu>
     <tu>
@@ -8810,6 +9410,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120820T133035Z">
         <seg>A3E22CDD7E92648A=ノートのプロパティ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;A3E497C30F573907=Close audio device when inactive and tracks are record armed</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T154303Z">
+        <seg>A3E497C30F573907=トラックレコード有効かつ非アクティブ時にオーディオデバイスを閉じる</seg>
       </tuv>
     </tu>
     <tu>
@@ -9070,6 +9678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;A965CC5A8248EA92=Close audio device when stopped and application is inactive</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T153813Z">
+        <seg>A965CC5A8248EA92=アプリケーションが停止またはアクティブでないときオーディオデバイスを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;A97D415B0FD742FD=Set note position to edit cursor</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154313Z">
@@ -9206,6 +9822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;AC7AE7A176147DD5=Tiny fade out on playback stop</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T154857Z">
+        <seg>AC7AE7A176147DD5=再生停止時に小さなフェードアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;AC87291F02756AE9=Mono 3</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120829T121328Z">
@@ -9282,6 +9906,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T172927Z">
         <seg>ADA3EA2F08216BCF=フェーダーの前 (エフェクトの後)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;ADB9958ED73C94F7=Loop section of item source</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="family" changedate="20140130T141330Z">
+        <seg>ADB9958ED73C94F7=アイテムの状態を維持したままループ</seg>
       </tuv>
     </tu>
     <tu>
@@ -9470,6 +10102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;B0CF6CB38AA786EF=Grid snap settings follow grid visibility</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T160830Z" creationid="doranarasi" creationdate="20140201T160719Z">
+        <seg>B0CF6CB38AA786EF=グリッドスナップ設定をグリッドの可視性に従う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;B0D208726D814CEB=Snap note ends to grid when snap enabled</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T013351Z">
@@ -9522,6 +10162,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120907T145503Z">
         <seg>B1C729A0D83A33D1=エンベロープを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B1D374C00E58CA81=Limit scrub rate to 1.0x</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T150512Z">
+        <seg>B1D374C00E58CA81=スクラブレートを1.0x に制限</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,6 +10470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;B80BDA0C01658F27=Tracks:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T025214Z" creationid="doranarasi" creationdate="20140202T025214Z">
+        <seg>B80BDA0C01658F27=トラック:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;B80BE35FC002073A=Bank/Program Select</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120820T132849Z">
@@ -9858,6 +10514,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051909Z">
         <seg>B897F27761564A3A=エディタで開く (設定でデフォルト動作を変更)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;B8A37B079F8D2F12=When importing multiple media items:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T034218Z">
+        <seg>B8A37B079F8D2F12=複数のメディア·アイテムをインポートするとき:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10078,6 +10742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;BB30EBB441D29823=Show notes on project load</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022159Z" creationid="doranarasi" creationdate="20140202T022135Z">
+        <seg>BB30EBB441D29823=プロジェクトロード時にノート表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;BB844E058DECEFE5=MIDI Devices</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T154020Z">
@@ -10154,6 +10826,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120908T135205Z">
         <seg>BC44E5DF05AB42DE=選択ファイルの名前を変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BD65489FE41F2336=CAUTION: files listed here are not used by the current project, but may be used in some other project.</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T155635Z">
+        <seg>BD65489FE41F2336=注意:ここに記載されているファイルは現在のプロジェクトで使用されていないが、他のプロジェクトで使用することができる。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10278,6 +10958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;BF4A3BF6EB7C6155=Build peaks for recorded files:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T152107Z">
+        <seg>BF4A3BF6EB7C6155=記録されたファイルのピーク構築:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;BF5372BB458B3DB8=Solo in front</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120829T124246Z">
@@ -10290,6 +10978,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120907T144333Z">
         <seg>BF7C871A52628C99=警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;BF7FC25E072FBD3F=Update project with consolidated files</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022751Z" creationid="doranarasi" creationdate="20140202T022735Z">
+        <seg>BF7FC25E072FBD3F=プロジェクトアップデート時にファイル統合</seg>
       </tuv>
     </tu>
     <tu>
@@ -10390,6 +11086,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;C12C9531DD475924=Set Envelope Point Value</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022219Z" creationid="doranarasi" creationdate="20140202T020507Z">
+        <seg>C12C9531DD475924=エンベロープポイントの値を設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;C195B1ACA8F965EB=down</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T180618Z">
@@ -10426,6 +11130,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120901T000031Z">
         <seg>C2976F5FA9078312=ステレオ 39/40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;C2CE3FF2933AAAF9=Scroll track view while recording (if enabled for playback in options menu)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T151225Z">
+        <seg>C2CE3FF2933AAAF9=録音中にトラックビューをスクロール (オプションメニューでプレイバックを有効にした場合)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10726,6 +11438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;C92B788D0BB92260=Consolidate Tracks</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022155Z" creationid="doranarasi" creationdate="20140202T022155Z">
+        <seg>C92B788D0BB92260=トラックを統合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;C93417DD40352E1B=Error saving</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120829T120614Z">
@@ -10762,6 +11482,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T050852Z">
         <seg>CA142F03B9CABB64=複数トラックのアイテムをテイクにまとめる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;CA2A2B5DBD0A0E62=Custom:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022947Z" creationid="doranarasi" creationdate="20140202T022943Z">
+        <seg>CA2A2B5DBD0A0E62=カスタム:</seg>
       </tuv>
     </tu>
     <tu>
@@ -10958,6 +11686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;CE81FD6CDFB4B2A1=Thread priority:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T165100Z" creationid="doranarasi" creationdate="20140201T165034Z">
+        <seg>CE81FD6CDFB4B2A1=スレッド優先度:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;CE91BC78987A2847=Channel Aftertouch</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20121208T110102Z">
@@ -11046,6 +11782,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;D1717A5C482193AF=Resample mode:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T024847Z" creationid="doranarasi" creationdate="20140202T024847Z">
+        <seg>;D1717A5C482193AF=リサンプリングモード:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;D192E5EF7BB75BF6=Quantize:</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120830T144850Z">
@@ -11074,6 +11818,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004358Z">
         <seg>D1E4A1A455A36989=マルチチャンネルのアイテムをチャンネルごとに展開</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;D20AEAB230E8A915=Snap/Grid Settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T155733Z" creationid="doranarasi" creationdate="20140201T143531Z">
+        <seg>D20AEAB230E8A915=スナップ/グリッド設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -11478,6 +12230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;D8609045F0F81B85=Jump to time/marker/region:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T021950Z" creationid="doranarasi" creationdate="20140202T021950Z">
+        <seg>D8609045F0F81B85=時間/マーカー/リージョンへジャンプ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;D86C7175F627BC38=Select all items</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153240Z">
@@ -11742,6 +12502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;DB2EDFA958D9695A=Window size:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T164555Z" creationid="doranarasi" creationdate="20140201T164451Z">
+        <seg>DB2EDFA958D9695A=ウインドウサイズ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;DB6FC995D09C7078=Fast end</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T004423Z">
@@ -11766,6 +12534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;DB9672C1C2AE2D3E=Do not process muted tracks (muted tracks take no CPU time, etc)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T155040Z">
+        <seg>DB9672C1C2AE2D3E=ミュートトラックを処理しない (ミュートしたトラックにCPU時間を使用しないなど)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;DB9EF3622F4C4895=Built-in MIDI editor</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120714T003524Z">
@@ -11786,6 +12562,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T153358Z">
         <seg>DBE0EEA73EA7A24B=編集: 元に戻す</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;DC1270B0AFACF4EE=Top Label:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T164245Z" creationid="doranarasi" creationdate="20140201T164206Z">
+        <seg>DC1270B0AFACF4EE=トップラベル:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12006,6 +12790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;DFD1209B13D93BA2=External editors</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T022539Z" creationid="doranarasi" creationdate="20140202T022539Z">
+        <seg>DFD1209B13D93BA2=外部エディタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;DFFCF4A65D1E6FA1=Auto-open FX add dialog when opening empty track FX chain</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120908T063054Z">
@@ -12166,6 +12958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;E2E6BC6DF438FDBD=Multichannel peak metering</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T164241Z" creationid="doranarasi" creationdate="20140201T164241Z">
+        <seg>E2E6BC6DF438FDBD=マルチチャンネルのピークメーター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;E32C7CC28C8CFB76=Subtract cursor position</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T173600Z">
@@ -12267,6 +13067,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120715T051940Z">
         <seg>E607CAC0E0F5BB14=エディタをクリアして最後にフォーカスのあったエディタで開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E64FC9552B0BA98B=Automatically name unnamed tracks on media import</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T034422Z">
+        <seg>E64FC9552B0BA98B=メディアのインポート時に自動的に名前のないトラックに名前を付ける</seg>
       </tuv>
     </tu>
     <tu>
@@ -12419,6 +13227,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120831T163702Z">
         <seg>E953387880EB6BCA=選択メディアの波形を常に表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;E96D65E8C4F421BD=Cursor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T160559Z" creationid="doranarasi" creationdate="20140201T160559Z">
+        <seg>E96D65E8C4F421BD=カーソル</seg>
       </tuv>
     </tu>
     <tu>
@@ -12711,6 +13527,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;EE7E328AE5754D9D=Peak+RMS</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T164256Z" creationid="doranarasi" creationdate="20140201T164154Z">
+        <seg>EE7E328AE5754D9D=ピーク+RMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;EE8EC012349D1F21=Project start time:</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T173544Z">
@@ -12763,6 +13587,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20121208T103239Z">
         <seg>EFEE658757CE9229=クオンタイズを確定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F002B1B68C613802=When moving edit cursor via action or control surface:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T150856Z">
+        <seg>F002B1B68C613802=アクションやコントロール面を介して編集カーソルを移動するとき:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12823,6 +13655,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;F0AAFAD65D65451F=RMS metering settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T164529Z" creationid="doranarasi" creationdate="20140201T164350Z">
+        <seg>F0AAFAD65D65451F=RMSメーター設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;F0D4137C641EE9CC=ms after stopping (for reverb tails, etc)</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120908T140114Z">
@@ -12867,6 +13707,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120716T110750Z">
         <seg>F1707CB9030B35E0=トラック選択時に録音待機状態にする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F17B5D457D4790AC=Limit jog rate to 1.0x</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T150354Z">
+        <seg>F17B5D457D4790AC=ジョグレートを1.0x に制限</seg>
       </tuv>
     </tu>
     <tu>
@@ -12951,6 +13799,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;F34BB15DA08E0D6E=Snap relative to grid</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T155719Z" creationid="doranarasi" creationdate="20140201T155719Z">
+        <seg>F34BB15DA08E0D6E=グリッドへの相対的なスナップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;F378819F0E95F1B9=Pre-FX</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T172913Z">
@@ -13019,6 +13875,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120901T000036Z">
         <seg>F50F9E03FF4FD4E7=ステレオ 32/33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;F5114A4E5C642964=Bezier tension:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140202T020556Z" creationid="doranarasi" creationdate="20140202T020556Z">
+        <seg>F5114A4E5C642964=ベジエ曲線の湾曲:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13151,6 +14015,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;F7AB56EC6A4F9C68=Limit jog rate when near cursor</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140130T150359Z">
+        <seg>F7AB56EC6A4F9C68=カーソルの近くの時にジョグレートを制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;F7B45F7E4B7A392C=End</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20121208T104444Z">
@@ -13279,6 +14151,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;FAB43CC8C74911B4=Grid settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T155735Z" creationid="doranarasi" creationdate="20140201T143909Z">
+        <seg>FAB43CC8C74911B4=グリッド設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FB6C4377177082CE=Grid snap spacing:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T160822Z" creationid="doranarasi" creationdate="20140201T160822Z">
+        <seg>FB6C4377177082CE=グリッドスナップ間隔:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;FB745C53DF6763C0=New PiP (subproject)</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120902T010627Z">
@@ -13367,6 +14255,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>;FC932B76ACB875B9=Behavior:</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T165121Z" creationid="doranarasi" creationdate="20140201T165121Z">
+        <seg>FC932B76ACB875B9=挙動:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>;FCB6A065AA82EC7F=Selected notes</seg>
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20121208T105906Z">
@@ -13379,6 +14275,14 @@
       </tuv>
       <tuv lang="JA-JP" changeid="chiepomme" changedate="20120820T134142Z">
         <seg>FD2194EDB7789EAF=ReaRoute を初期化中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>;FD6CB597F81A51BE=Audio buffering settings</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T165106Z" creationid="doranarasi" creationdate="20140201T164638Z">
+        <seg>FD6CB597F81A51BE=オーディオバッファリング設定</seg>
       </tuv>
     </tu>
     <tu>
@@ -13541,6 +14445,25 @@
         <seg>このエンベロープを完全に削除してよろしいですか？</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>can also be 0)</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="doranarasi" changedate="20140201T165015Z" creationid="doranarasi" creationdate="20140201T164958Z">
+        <seg>それよりも少なくすることを推奨)</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Japanese.ReaperLangPack</prop>
+      <prop type="prev">;13A51C8BEEDFCE52=Paste</prop>
+      <prop type="next">;F70F33492CF99E39=Select all notes</prop>
+      <tuv lang="EN-US">
+        <seg>;4AAE40A08510E47F=Paste preserving position in measure</seg>
+      </tuv>
+      <tuv lang="JA-JP" changeid="family" changedate="20140130T142251Z">
+        <seg>4AAE40A08510E47F=メジャー内の位置を維持してペースト</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
